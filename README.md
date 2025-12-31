@@ -8,7 +8,7 @@ Product mapping for the Battle of Talingchan price API by TCG Thailand.
 |------|-------------|
 | `mapping.json` | ProductId → Card details (Name, CardNumber, Rarity, SetCode, SetName) |
 | `metadata.json` | Version info and product/set counts |
-| `delta.json` | Changes since previous release |
+| `delta.json` | Changes since previous release (for incremental updates without re-downloading full mapping) |
 
 ## API
 
