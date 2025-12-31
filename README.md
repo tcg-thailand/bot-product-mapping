@@ -1,6 +1,6 @@
 # Battle of Talingchan Product Mapping
 
-Human-readable product mapping for the Battle of Talingchan market price API.
+Product mapping for the Battle of Talingchan price API by TCG Thailand.
 
 ## Files
 
@@ -29,7 +29,7 @@ const enriched = prices.map(p => ({
 
 ## Updates
 
-- Released monthly via [GitHub Releases](../../releases)
+- Released each time a new card is added to TCG Thailand database via [GitHub Releases](../../releases)
 - Use `delta.json` for incremental updates
 - Subscribe to releases for notifications
 
@@ -37,7 +37,3 @@ const enriched = prices.map(p => ({
 
 - **Minor** (1.x.0): New set released
 - **Patch** (1.0.x): Cards added/removed/modified within existing sets
-
-## License
-
-MIT
