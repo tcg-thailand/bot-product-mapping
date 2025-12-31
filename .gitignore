@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except these files
+!README.md
+!output/
+!output/mapping.json
+!output/metadata.json
+!output/delta.json
+!.gitignore
