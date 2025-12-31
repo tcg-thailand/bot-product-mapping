@@ -10,16 +10,38 @@ Product mapping for the Battle of Talingchan price API by TCG Thailand.
 | `metadata.json` | Version info and product/set counts |
 | `delta.json` | Changes since previous release |
 
+## API
+
+**Endpoint:** `https://api.tcgthailand.com/api/v1/public/battle-of-talingchan-price`
+
+**Rate limit:** Once per hour
+
+**Authentication:** Requires `X-API-KEY` header. Contact admin@tcgthailand.com to request access.
+
+**Response:**
+```json
+[{ "ProductId": "uuid", "Price": "10000", "Sellers": 5, "LastSold": "9500" }, ...]
+```
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `ProductId` | string | Unique product identifier (UUID) |
+| `Price` | string | Current lowest listed price on the market (minor unit: `10000` = 100.00 THB) |
+| `Sellers` | integer | Number of sellers currently listing this product |
+| `LastSold` | string | Last sold price of the product (minor unit: `10000` = 100.00 THB) |
+
+> **Note:** `Price` and `LastSold` are strings in minor unit format. Parse to number and divide by 100 to get THB (e.g., `Number(Price) / 100`).
+
 ## Usage
 
-Join with the price API response using `ProductId`:
+Join the API response with this mapping using `ProductId`:
 
 ```javascript
 // API returns: { ProductId, Price, Sellers, LastSold }
 // Mapping provides: { Name, CardNumber, Rarity, SetCode, SetName }
 
-const prices = await fetch('API_URL').then(r => r.json());
-const mapping = await fetch('https://raw.githubusercontent.com/YOUR_USERNAME/REPO_NAME/main/output/mapping.json').then(r => r.json());
+const prices = await fetch('API_URL', { headers: { 'X-API-KEY': 'your-key' } }).then(r => r.json());
+const mapping = await fetch('https://raw.githubusercontent.com/tcg-thailand/bot-product-mapping/main/output/mapping.json').then(r => r.json());
 
 const enriched = prices.map(p => ({
   ...p,
@@ -30,8 +52,8 @@ const enriched = prices.map(p => ({
 ## Updates
 
 - Released each time a new card is added to TCG Thailand database via [GitHub Releases](../../releases)
-- Use `delta.json` for incremental updates
 - Subscribe to releases for notifications
+- Use `delta.json` for incremental updates
 
 ## Versioning
 
