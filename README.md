@@ -38,7 +38,7 @@ Product mapping for the Battle of Talingchan price API by TCG Thailand.
 
 Join the API response with this mapping using `ProductId`:
 
-```javascript
+```typescript
 // API returns: { ProductId, Price, Sellers, LastSold }
 // Mapping provides: { Name, CardNumber, Rarity, SetCode, SetName }
 
