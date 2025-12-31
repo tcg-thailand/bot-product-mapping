@@ -32,6 +32,8 @@ Product mapping for the Battle of Talingchan price API by TCG Thailand.
 
 > **Note:** `Price` and `LastSold` are strings in minor unit format. Parse to number and divide by 100 to get THB (e.g., `Number(Price) / 100`).
 
+> **Product Page:** Use the `ProductId` to construct a direct link to the product page: `https://www.tcgthailand.com/product/{ProductId}`
+
 ## Usage
 
 Join the API response with this mapping using `ProductId`:
