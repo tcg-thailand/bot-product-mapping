@@ -14,7 +14,7 @@ Product mapping for the Battle of Talingchan price API by TCG Thailand.
 
 **Endpoint:** `https://api.tcgthailand.com/api/v1/public/battle-of-talingchan-price`
 
-**Rate limit:** Once per hour
+**Please limit requests to once per hour.**
 
 **Authentication:** Requires `X-API-KEY` header. Contact admin@tcgthailand.com to request access.
 
