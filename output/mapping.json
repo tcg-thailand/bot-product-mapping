@@ -1,4 +1,151 @@
 {
+  "d2ecc6f6-a196-4f94-9ddc-a2a59023d141": {
+    "Name": "MEGA ROR.DOR",
+    "CardNumber": "SD04-005",
+    "Rarity": "CBR",
+    "SetCode": "SD04",
+    "SetName": "[SD04] ทหารไก่ชนเขา"
+  },
+  "0647d008-c300-4a5e-b0b1-891529c630b7": {
+    "Name": "สุวาน",
+    "CardNumber": "SD03-005",
+    "Rarity": "CBR",
+    "SetCode": "SD03",
+    "SetName": "[SD03] นรกก็แค่น้ำพริก"
+  },
+  "d7509ddc-c5eb-43cf-b533-1f55ae23abe1": {
+    "Name": "วีรบุรุษปากซอย",
+    "CardNumber": "SD02-005",
+    "Rarity": "CBR",
+    "SetCode": "SD02",
+    "SetName": "[SD02] วีรบุรุษปากซอย"
+  },
+  "1c315d76-fad8-42ea-b966-ffd327a41280": {
+    "Name": "เมียพระอิศวร",
+    "CardNumber": "SD01-005",
+    "Rarity": "CBR",
+    "SetCode": "SD01",
+    "SetName": "[SD01] ตัวตึงไกรลาส"
+  },
+  "53ddeb6c-21b9-4e25-b3f6-9f2e47c11c24": {
+    "Name": "ราชาอาณาจักรของแพง พระเจ้านิโคไล",
+    "CardNumber": "BT03-028",
+    "Rarity": "CBR",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "0793f4d6-beee-4da3-9392-438f865e6106": {
+    "Name": "บุญลือ วีรบุรุษเปรต",
+    "CardNumber": "BT02-001",
+    "Rarity": "CBR",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "8d8ae052-8b83-4404-9c62-dc94d40a8dbe": {
+    "Name": "ไม่นะ ฟุจัง!!",
+    "CardNumber": "PRMO-098",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "56bf7cbe-7914-473c-84f8-d9b08e94ff12": {
+    "Name": "ไม่นะ โอคุง!!",
+    "CardNumber": "PRMO-097",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "8b31e4b9-3bd0-4c72-910d-66a70532391d": {
+    "Name": "กวนอู ขุนพลภักดีแห่งจ๊กก๊ก",
+    "CardNumber": "PRMO-091",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "cfe7943a-39bd-417f-86e3-e2e896da371c": {
+    "Name": "คาถา ปลดอาวุสสิวะ",
+    "CardNumber": "PRMO-090",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "1669f4bc-d2c9-4e95-acae-847ea1471b33": {
+    "Name": "พลทหารหิมะ",
+    "CardNumber": "PRMO-089",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "b2418c8c-5d10-4b17-9f8d-fd722af5df83": {
+    "Name": "รถถัง A003",
+    "CardNumber": "PRMO-088",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "c5350a73-a0b6-4f19-b7f7-6adff359bd59": {
+    "Name": "ไอ้นัท - คนใจเด็ด",
+    "CardNumber": "PRMO-087",
+    "Rarity": "R",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "7541da67-de7e-4714-b40a-6bd42e72b527": {
+    "Name": "ตุ๊กตารัททาทุย",
+    "CardNumber": "PRMO-086",
+    "Rarity": "R",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "e3a592fc-70a7-4f54-8bdd-e4b21d0a3eb1": {
+    "Name": "เบดิเวียร์ อัศวินโต๊ะกลมแห่งความภักดี",
+    "CardNumber": "PRMO-085",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "4256b83e-cc41-4b08-855b-15917578f624": {
+    "Name": "หมาชาไทย",
+    "CardNumber": "PRMO-084",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "ed627e07-ad99-4a16-bb1c-a196436b15e8": {
+    "Name": "เลอติ๊ก เด็กไม่ชอบแดรคคูลา",
+    "CardNumber": "PRMO-083",
+    "Rarity": "R",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "458f9b33-321c-4339-8b4c-e6c1fd9ee30f": {
+    "Name": "วอเตอร์แมน",
+    "CardNumber": "SD05-006",
+    "Rarity": "CBR",
+    "SetCode": "SD05",
+    "SetName": "[SD05] กำเนิดจากน้ำ"
+  },
+  "bf791ab1-9f81-4477-ac03-e62e895c190e": {
+    "Name": "[กล่อง] Community Collection 2",
+    "CardNumber": "NULL",
+    "Rarity": "-",
+    "SetCode": "CC02",
+    "SetName": "[CC02] Community Collection 2"
+  },
+  "64a0d68e-bdfa-49cf-bdbb-b3eb6f1e7449": {
+    "Name": "[กล่อง] เพราะ warrior is นักรบ",
+    "CardNumber": "NULL",
+    "Rarity": "-",
+    "SetCode": "BT08",
+    "SetName": "[BT08] เพราะ Warrior is นักรบ"
+  },
+  "39ffef6d-339c-45b3-84d1-26ca198c2710": {
+    "Name": "[กล่อง] Life of หน่วง",
+    "CardNumber": "NULL",
+    "Rarity": "-",
+    "SetCode": "BT07",
+    "SetName": "[BT07] Life of หน่วง"
+  },
   "1a5d273b-7ee5-485a-b080-26e053b6b0d8": {
     "Name": "มวยทะเลลลลลล",
     "CardNumber": "CC02-060",
@@ -385,14 +532,14 @@
     "SetName": "[CC02] Community Collection 2"
   },
   "bd405957-d055-4065-81db-fbc7c3a37d18": {
-    "Name": "มนุษย์รวย",
+    "Name": "คนรวย",
     "CardNumber": "CC02-022",
     "Rarity": "SEC",
     "SetCode": "CC02",
     "SetName": "[CC02] Community Collection 2"
   },
   "d6e35f4b-6370-4402-abcf-f8d6b159c102": {
-    "Name": "มนุษย์รวย",
+    "Name": "คนรวย",
     "CardNumber": "CC02-022",
     "Rarity": "SR",
     "SetCode": "CC02",
@@ -1277,435 +1424,442 @@
     "Name": "จอย มนุษย์ดาว R18",
     "CardNumber": "PRMO-072",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "9b5790a5-3ed9-4c3e-8e3a-aab30c728c85": {
     "Name": "จาบับวา",
     "CardNumber": "PRMO-073",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "a4f82869-016b-4668-925a-ed850cc34572": {
     "Name": "หุ่นนักรบผู้กล้า : โปรโตไมเกรน",
     "CardNumber": "PRMO-074",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "510b3bd9-4289-475c-b26f-a6b49d4c8278": {
     "Name": "ชาช่าจัง ไอดอลคนเก่ง",
     "CardNumber": "PRMO-076",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "f4a5a95b-70b0-4ef7-99db-a5cc43496b76": {
     "Name": "จ่ายุทธ Tank Ranger",
     "CardNumber": "PRMO-077",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "1cbfc9c2-b8b1-4f23-837b-c54af28c68be": {
     "Name": "หุ่นนักรบผู้กล้า : ไมเกรน",
     "CardNumber": "PRMO-078",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "90a4105d-a882-4e33-b706-4c63a8b53c89": {
     "Name": "ศาลพระภูมิ",
     "CardNumber": "PRMO-079",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "78cca1e2-00b2-4d5a-a397-9c70344beaf5": {
     "Name": "แมลงปอแจ๊ค",
     "CardNumber": "PRMO-075",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "e0c9b004-563f-45cd-bf93-2bd99b29576c": {
     "Name": "เฟรย่า แม่ทุกสถาบันแอสการ์ด",
     "CardNumber": "PRMO-071",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "2120835e-a0e0-4dcd-90cb-00f8ce80491f": {
     "Name": "เอาไปอยู่ด้วย",
     "CardNumber": "PRMO-069",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "d00618b6-2927-4421-8b1d-504a9a56c0d0": {
     "Name": "จอมเวทย์ดำ",
     "CardNumber": "PRMO-070",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "61a36bf7-8e08-48d7-b14d-f569173c69a7": {
     "Name": "กุ่ย",
     "CardNumber": "PRMO-065",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "ecfa432f-a2ac-47b1-b9a6-e3a2dd3689a8": {
     "Name": "ฮอล",
     "CardNumber": "PRMO-066",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "a058b469-9065-4bab-bce3-28fba5b464b7": {
     "Name": "นาย",
     "CardNumber": "PRMO-067",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "753386ec-d556-4904-9e25-f54704d50017": {
     "Name": "แม่นาค พระประแดง",
     "CardNumber": "PRMO-052",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "215336f3-df9b-4c61-978e-a553ec171090": {
     "Name": "เด็กไม่ชอบแมลงสาบ",
     "CardNumber": "PRMO-053",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "9ad2f1dd-2991-4d3b-b895-df5075415e58": {
     "Name": "หมาแพนดี้",
     "CardNumber": "PRMO-054",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "64c841ed-aee4-4a69-9984-a19694019c81": {
     "Name": "ร้ททาทุย ผู้พิทักษ์ราชีนี",
     "CardNumber": "PRMO-055",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "7926812b-29d4-4e03-98cf-39f5306ae62c": {
     "Name": "ชายจากอนาคต",
     "CardNumber": "PRMO-056",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "6a57986f-f229-4c2f-a095-89029169640e": {
     "Name": "อีช่า - สาวน้อยคนเก่ง",
     "CardNumber": "PRMO-056",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "975e0e28-769a-40ed-be23-7f4859ed6002": {
     "Name": "แมวมัทฉะ",
     "CardNumber": "PRMO-057",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "a7e32800-e088-4344-82f8-703aca853752": {
     "Name": "บึงทมิฬ People - คุณดีไมส์",
     "CardNumber": "PRMO-058",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "33f591b5-178f-4e58-9068-338e8461273d": {
     "Name": "มีมมิ ผู้ร่วงหล่น",
     "CardNumber": "PRMO-060",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "92e457a7-cea8-42ad-8db3-4474d8eddf64": {
     "Name": "อามัส มนุษย์ดาว R18",
     "CardNumber": "PRMO-061",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "324f4cd9-d72f-4d5b-a267-9a18c1256e3a": {
     "Name": "นางลักษมี",
     "CardNumber": "PRMO-063",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "799db966-449e-4578-9722-c6f20f4e8593": {
     "Name": "สหายหุ่นผู้กล้า โฟเบีย",
     "CardNumber": "PRMO-062",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "07b97d15-cb0d-41d3-97f9-29edd904644e": {
     "Name": "บีมมมมมมมมมม",
     "CardNumber": "PRMO-059",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "15adaaa7-4bf5-4adb-98cb-c77ea1689f6d": {
     "Name": "ทัตดนัยซัง โปรดิวเซอร์มือทอง",
     "CardNumber": "PRMO-064",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "b07cbac4-1f0d-48f1-942f-0e6484e71cb4": {
     "Name": "เจ้ากล้าดียังไง",
     "CardNumber": "PRMO-068",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "cb2f338e-099b-4de1-a758-1d3099237763": {
     "Name": "ขวานเงิน",
     "CardNumber": "PRMO-041",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "ada2a33b-fa2b-40c4-b2ae-78a171b97578": {
     "Name": "ครูภาษาไทย",
     "CardNumber": "PRMO-042",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "c363a771-0306-43a2-828d-f86df1ad9225": {
     "Name": "ไดโนกาฬสินธุ์ - ภูเวียงสิรินเน",
     "CardNumber": "PRMO-043",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "2e0955bc-1d16-42aa-b1e8-dee6fe5dea56": {
     "Name": "ร้อนมากก็เปิดหน้าต่างสิว๊ากกกก",
     "CardNumber": "PRMO-044",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "21c7e03e-b799-4e5e-b600-425943b43971": {
     "Name": "นายนิรยบาล กล้าม",
     "CardNumber": "PRMO-046",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "00d87583-1e37-42c3-960a-b462ac1fa27f": {
     "Name": "ทุ่งนาแดนนี้(ไม่มีความหมาย)",
     "CardNumber": "PRMO-045",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "79bb2b57-3fc3-4a20-ba0b-c48be1fb2fd1": {
     "Name": "ผู้เล่นมั่ว",
     "CardNumber": "PRE0-005",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "9ad6b724-195a-4731-a0d7-e173b424fdda": {
     "Name": "บรุนฮิลด์ เทพธิดาแห่งวัลฮัลลา",
     "CardNumber": "PRMO-047",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "db0a4d00-07d0-4317-8e01-389df55fb36f": {
     "Name": "ผู้เล่นภักดี",
     "CardNumber": "PRE0-002",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "ef122a66-99f7-4d49-b4d1-6536b003e3a6": {
     "Name": "ผู้เล่นจำไม",
     "CardNumber": "PRE0-004",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "34c4376d-2c74-4cb4-9ea8-e7f481608285": {
     "Name": "ผู้เล่นเหลี่ยม",
     "CardNumber": "PRE0-003",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "1557875f-cfae-498e-9f8e-29e2407cf35d": {
     "Name": "พี่โด 2.0",
     "CardNumber": "PRMO-023",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "f63b685f-a276-453f-91d8-16710414b092": {
     "Name": "ทหารอาณาจักรของแพง",
     "CardNumber": "PRMO-026",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "71c89f0a-10cb-442e-be38-51a5959863d7": {
     "Name": "แบมบูจัง ไอดอลสองขั้ว",
     "CardNumber": "PRMO-024",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "2bb00f5f-6b83-4161-9785-a1606a113573": {
     "Name": "ไม่เจ้ายังไม่พร้อม",
     "CardNumber": "PRMO-028",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "53abbcc2-7b0b-447b-bc35-27b63bdf1840": {
     "Name": "บัลเดอร์ เทพแสง แห่งแอสการ์ด",
     "CardNumber": "PRMO-025",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "d04bc1ba-8434-4239-b892-9709280231ef": {
     "Name": "แบ่งแยกดินแดน",
     "CardNumber": "PRMO-029",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "114799b0-be04-48c9-8e40-15c4aa54e728": {
     "Name": "ปราสาทแดรก",
     "CardNumber": "PRMO-031",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "380c8303-9d80-4e5c-b50c-38557a99b59c": {
     "Name": "บึงทมิฬ People - CEO คุณจิระ",
     "CardNumber": "PRMO-030",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "36b64ace-880a-42ad-bf9f-e7c40ce39b4a": {
     "Name": "พระนารายณ์",
     "CardNumber": "PRMO-027",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "7ea1f50e-cea9-4fda-b00b-727b2d07aac6": {
     "Name": "หมานมเย็น",
     "CardNumber": "PRMO-034",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "1962f8bb-fd00-4e29-a869-2a5566384124": {
     "Name": "นางอัปสร",
     "CardNumber": "PRMO-032",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "2bab01fc-346e-468c-92fe-fb1705f52f8c": {
     "Name": "เทอราโนดอน จากต่างแดน",
     "CardNumber": "PRMO-033",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "ad393e2b-da8d-4edb-95df-e55c81c61c30": {
     "Name": "หมอมาแล้วววว",
     "CardNumber": "PRMO-035",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "cb082f66-7003-4271-bda7-9ab53fd6b019": {
     "Name": "น้องสาม ผู้รู้ความจริง",
     "CardNumber": "PRMO-036",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "cfd229be-928d-435e-9dba-149fd54302ff": {
     "Name": "โทมาโทจัง ไอดอลเด็กน้อย",
     "CardNumber": "PRMO-037",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "9ddf46f1-0fe8-4e51-ab69-92d6c759cd66": {
     "Name": "รถถัง \"Tank Ranger\"",
     "CardNumber": "PRMO-038",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "aefb3d9d-ce95-43e2-90a7-e20eec744051": {
     "Name": "หมู่บ้านพอดี",
     "CardNumber": "PRMO-039",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "6a3cdbd4-ae4d-45ee-a1e4-71c397a54370": {
     "Name": "เมียพระอิศวร",
     "CardNumber": "PRMO-040",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "58a4b1d8-6854-4d97-8659-9102e5206877": {
     "Name": "แมว-น้ำมะลิ",
     "CardNumber": "PRMO-048",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "82745b4e-fb1c-4e26-8fe1-53d417396199": {
     "Name": "คุณเชิดชัย Super Air",
     "CardNumber": "PRMO-049",
     "Rarity": "C",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "54822f2d-7b1b-4bdb-bac9-8bf2a3d28852": {
     "Name": "โรงบาล",
     "CardNumber": "PRMO-050",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "556616bb-5692-49cb-84b8-649b869f0bcc": {
     "Name": "บึงทมิฬ",
     "CardNumber": "PRMO-051",
     "Rarity": "SR",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "05dc50e3-d831-430b-a76c-7e0247d9ac7c": {
+    "Name": "ลิโป้ ขุนพลเทพสงคราม",
+    "CardNumber": "SD07-007",
+    "Rarity": "CBR",
+    "SetCode": "SD07",
+    "SetName": "[SD07] VS 18 หัวเมือง"
   },
   "d5073e36-c3d5-4911-b8ff-f73da17cef3d": {
     "Name": "ง้าวมังกรเขียว",
@@ -1718,13 +1872,6 @@
     "Name": "หนีคือยอดกลยุทธ์",
     "CardNumber": "SD07-016",
     "Rarity": "C",
-    "SetCode": "SD07",
-    "SetName": "[SD07] VS 18 หัวเมือง"
-  },
-  "05dc50e3-d831-430b-a76c-7e0247d9ac7c": {
-    "Name": "ลิโป้ ขุนพลเทพสงคราม",
-    "CardNumber": "SD06-007",
-    "Rarity": "CBR",
     "SetCode": "SD07",
     "SetName": "[SD07] VS 18 หัวเมือง"
   },
@@ -1896,6 +2043,13 @@
     "SetCode": "SD07",
     "SetName": "[SD07] VS 18 หัวเมือง"
   },
+  "cb7e4321-a371-4b5a-b01e-ea7f99580326": {
+    "Name": "ลิโป้ ขุนพลเทพสงคราม",
+    "CardNumber": "SD07-007",
+    "Rarity": "CBR",
+    "SetCode": "SD07",
+    "SetName": "[SD07] VS 18 หัวเมือง"
+  },
   "e378154e-c7ad-4f3a-b419-7097c5dca811": {
     "Name": "ด่านเฮาโลก๋วน",
     "CardNumber": "SD07-020",
@@ -1956,13 +2110,6 @@
     "Name": "ลิโป้ ขุนพลเทพสงคราม",
     "CardNumber": "SD07-007",
     "Rarity": "PR",
-    "SetCode": "SD07",
-    "SetName": "[SD07] VS 18 หัวเมือง"
-  },
-  "cb7e4321-a371-4b5a-b01e-ea7f99580326": {
-    "Name": "ลิโป้ ขุนพลเทพสงคราม",
-    "CardNumber": "SD06-007",
-    "Rarity": "CBR",
     "SetCode": "SD07",
     "SetName": "[SD07] VS 18 หัวเมือง"
   },
@@ -2939,6 +3086,13 @@
     "SetCode": "SD06",
     "SetName": "[SD06] ๖ ประจัญบาน"
   },
+  "ae94c3b7-f0e0-409f-adc5-a687af4e4a20": {
+    "Name": "จัน หนวดเขี้ยว",
+    "CardNumber": "SD06-001",
+    "Rarity": "CBR",
+    "SetCode": "SD06",
+    "SetName": "[SD06] ๖ ประจัญบาน"
+  },
   "0a0c5768-f8d5-4382-a9aa-5e56648a046d": {
     "Name": "จัน หนวดเขี้ยว",
     "CardNumber": "SD06-001",
@@ -2950,13 +3104,6 @@
     "Name": "อิน สไนเปอร์",
     "CardNumber": "SD06-002",
     "Rarity": "C",
-    "SetCode": "SD06",
-    "SetName": "[SD06] ๖ ประจัญบาน"
-  },
-  "ae94c3b7-f0e0-409f-adc5-a687af4e4a20": {
-    "Name": "จัน หนวดเขี้ยว",
-    "CardNumber": "SD06-001",
-    "Rarity": "CBR",
     "SetCode": "SD06",
     "SetName": "[SD06] ๖ ประจัญบาน"
   },
@@ -3261,6 +3408,13 @@
     "SetCode": "ODY1",
     "SetName": "[ODY1] Odenya x Battle of Talingchan"
   },
+  "24f9f671-bed5-430d-b65e-937ceffab076": {
+    "Name": "นนทก นิ้วเพชร",
+    "CardNumber": "ODY1-007",
+    "Rarity": "FR",
+    "SetCode": "ODY1",
+    "SetName": "[ODY1] Odenya x Battle of Talingchan"
+  },
   "25356f42-8a2a-4a98-8939-e94c03cbcf59": {
     "Name": "เด็กไม่ชอบแมลงสาบมากๆ",
     "CardNumber": "ODY1-050",
@@ -3328,13 +3482,6 @@
     "Name": "นนทก นิ้วเพชร",
     "CardNumber": "ODY1-007",
     "Rarity": "UR",
-    "SetCode": "ODY1",
-    "SetName": "[ODY1] Odenya x Battle of Talingchan"
-  },
-  "24f9f671-bed5-430d-b65e-937ceffab076": {
-    "Name": "นนทก นิ้วเพชร",
-    "CardNumber": "ODY1-007",
-    "Rarity": "FR",
     "SetCode": "ODY1",
     "SetName": "[ODY1] Odenya x Battle of Talingchan"
   },
@@ -5221,6 +5368,41 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
+  "7fb3dc37-779b-48be-8fe4-b08307b90794": {
+    "Name": "เมตตาระยะยาว",
+    "CardNumber": "CC01-057",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "5a58970c-5a8f-499e-8435-da4dca2c7576": {
+    "Name": "พรของอิศวร",
+    "CardNumber": "CC01-042",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "9fb5cb87-49b1-4830-b659-aaa1a67494c1": {
+    "Name": "น้ำซุปชาบู",
+    "CardNumber": "CC01-048",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "bf54f8d6-9460-4352-9181-77534e8d4578": {
+    "Name": "ถาดหลุม",
+    "CardNumber": "CC01-055",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "96b62e8e-4937-4d38-872c-c21c16435106": {
+    "Name": "ริกกี้ นักปลอมแปลง",
+    "CardNumber": "CC01-058",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
   "54548233-5233-491e-a0d4-7380095fce93": {
     "Name": "ตุ๊กตางูพันคอ",
     "CardNumber": "CC01-047",
@@ -5249,24 +5431,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "7fb3dc37-779b-48be-8fe4-b08307b90794": {
-    "Name": "เมตตาระยะยาว",
-    "CardNumber": "CC01-057",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "9e1652f0-0ddf-4d41-86fc-7a9e012adde2": {
     "Name": "พรของอิศวร",
     "CardNumber": "CC01-042",
     "Rarity": "UR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "5a58970c-5a8f-499e-8435-da4dca2c7576": {
-    "Name": "พรของอิศวร",
-    "CardNumber": "CC01-042",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5302,13 +5470,6 @@
     "Name": "น้ำซุปชาบู",
     "CardNumber": "CC01-048",
     "Rarity": "SR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "9fb5cb87-49b1-4830-b659-aaa1a67494c1": {
-    "Name": "น้ำซุปชาบู",
-    "CardNumber": "CC01-048",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5361,24 +5522,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "bf54f8d6-9460-4352-9181-77534e8d4578": {
-    "Name": "ถาดหลุม",
-    "CardNumber": "CC01-055",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "f9da241c-7b7f-4995-845a-e7a967e35767": {
     "Name": "ริกกี้ นักปลอมแปลง",
     "CardNumber": "CC01-058",
     "Rarity": "SR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "96b62e8e-4937-4d38-872c-c21c16435106": {
-    "Name": "ริกกี้ นักปลอมแปลง",
-    "CardNumber": "CC01-058",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5399,7 +5546,161 @@
   "26227682-d358-4c0c-ac7e-974a14355eb0": {
     "Name": "แมลงปอเลื่อยยนต์",
     "CardNumber": "CC01-026",
-    "Rarity": "SCR",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "3b63bbbb-ca5f-4f7f-9920-3a33e2baa88b": {
+    "Name": "พระพรหม เทพผู้สร้าง",
+    "CardNumber": "CC01-003",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "c8851cc0-5e20-47a0-8499-d4c331a0a427": {
+    "Name": "ไตรตัน เจ้าสมุทร",
+    "CardNumber": "CC01-006",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "89c263cd-2b00-4772-91dd-97b2b5de51d5": {
+    "Name": "วีรบุรุษสุดซอย",
+    "CardNumber": "CC01-007",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "bf9c7a13-93c5-47d7-933d-a999c0ce3d85": {
+    "Name": "ผู้กองอึ่งอ่าง",
+    "CardNumber": "CC01-020",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "90f11992-d19b-418c-a471-08abca4ca683": {
+    "Name": "ชู้รักรัททาทุย",
+    "CardNumber": "CC01-009",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "b091cfe1-f76f-4ea1-a886-2f40fcd610de": {
+    "Name": "พญายม With The Shotgun",
+    "CardNumber": "CC01-011",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "e4621a13-9f04-4682-bd1f-71d520cb96cf": {
+    "Name": "วูตาตู",
+    "CardNumber": "CC01-014",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "57b5fbb8-07b7-4088-9feb-371f010fb144": {
+    "Name": "ยักษ์หินแผ่นดินใหญ่",
+    "CardNumber": "CC01-017",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "cfaad1b9-3836-4bbe-8dfa-a96036ba72e6": {
+    "Name": "หมวดเงียบ ทหารรับจ้าง",
+    "CardNumber": "CC01-019",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "1d8eac44-7c40-4dec-87dc-7be706321eaa": {
+    "Name": "อินทรีย์แมน",
+    "CardNumber": "CC01-021",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "20480146-901b-40be-a191-b77fb10b5d74": {
+    "Name": "ตำรวจไซบอร์ค จ่าคอป",
+    "CardNumber": "CC01-023",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "cf641e16-a06e-4897-a2d0-62f001018c95": {
+    "Name": "รัททาทุย",
+    "CardNumber": "CC01-024",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "f90dc214-38a9-4f1d-9e3e-3e01b1158953": {
+    "Name": "รัททาทุย พ่อพันธุ์",
+    "CardNumber": "CC01-025",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "97ab4117-fec6-4a3b-b686-75ef6892936f": {
+    "Name": "นายนิรยบาล แว่น",
+    "CardNumber": "CC01-029",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "75b19c78-20b9-401b-83f4-88af7782a8f4": {
+    "Name": "จ่ามะนาว Tank Ranger",
+    "CardNumber": "CC01-033",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "5b4bb132-5bd9-49b2-a00f-3d317b81bd51": {
+    "Name": "จ่าแดงเดือด Tank Ranger",
+    "CardNumber": "CC01-034",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "c2a15f55-608b-4248-9b9a-0df698706224": {
+    "Name": "เทวดาตัวเปิด",
+    "CardNumber": "CC01-035",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "f666ca17-3235-422b-b65e-c8687d4a0fe2": {
+    "Name": "ตึก",
+    "CardNumber": "CC01-036",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "4921daab-8c57-40bd-b968-b02e0c3a4dbf": {
+    "Name": "ลูกค้าชาบู",
+    "CardNumber": "CC01-038",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "e353f9ef-435f-44a1-b4f0-75cc743f4a0f": {
+    "Name": "จอมมังการ์ด",
+    "CardNumber": "CC01-039",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "a3c8460c-af63-40b7-86f6-d031f4e06b42": {
+    "Name": "เฟรนชี่",
+    "CardNumber": "CC01-012",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "82e5d308-2082-4639-be77-68c28fdd1ec8": {
+    "Name": "ไอ้หนุ่มรด.",
+    "CardNumber": "CC01-041",
+    "Rarity": "SEC",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5407,13 +5708,6 @@
     "Name": "ผู้กองอึ่งอ่าง",
     "CardNumber": "CC01-020",
     "Rarity": "SR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "3b63bbbb-ca5f-4f7f-9920-3a33e2baa88b": {
-    "Name": "พระพรหม เทพผู้สร้าง",
-    "CardNumber": "CC01-003",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5438,24 +5732,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "c8851cc0-5e20-47a0-8499-d4c331a0a427": {
-    "Name": "ไตรตัน เจ้าสมุทร",
-    "CardNumber": "CC01-006",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "ba17f1be-af87-4140-b74f-f8b30a713e38": {
     "Name": "วีรบุรุษสุดซอย",
     "CardNumber": "CC01-007",
     "Rarity": "UR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "89c263cd-2b00-4772-91dd-97b2b5de51d5": {
-    "Name": "วีรบุรุษสุดซอย",
-    "CardNumber": "CC01-007",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5473,20 +5753,6 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "bf9c7a13-93c5-47d7-933d-a999c0ce3d85": {
-    "Name": "ผู้กองอึ่งอ่าง",
-    "CardNumber": "CC01-020",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "90f11992-d19b-418c-a471-08abca4ca683": {
-    "Name": "ชู้รักรัททาทุย",
-    "CardNumber": "CC01-009",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "e897fbca-c00f-4b17-a716-3262bc404d45": {
     "Name": "ลุงบุญโชค",
     "CardNumber": "CC01-010",
@@ -5498,13 +5764,6 @@
     "Name": "พญายม With The Shotgun",
     "CardNumber": "CC01-011",
     "Rarity": "UR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "b091cfe1-f76f-4ea1-a886-2f40fcd610de": {
-    "Name": "พญายม With The Shotgun",
-    "CardNumber": "CC01-011",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5529,13 +5788,6 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "e4621a13-9f04-4682-bd1f-71d520cb96cf": {
-    "Name": "วูตาตู",
-    "CardNumber": "CC01-014",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "08b113b6-37d6-4603-b9ca-eeef54f9389b": {
     "Name": "HR ผู้รู้ความจริง",
     "CardNumber": "CC01-015",
@@ -5557,13 +5809,6 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "57b5fbb8-07b7-4088-9feb-371f010fb144": {
-    "Name": "ยักษ์หินแผ่นดินใหญ่",
-    "CardNumber": "CC01-017",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "3caf14eb-ec8c-4860-9256-c950a2c673a4": {
     "Name": "เสามงคล ทรงจีน",
     "CardNumber": "CC01-018",
@@ -5578,13 +5823,6 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "cfaad1b9-3836-4bbe-8dfa-a96036ba72e6": {
-    "Name": "หมวดเงียบ ทหารรับจ้าง",
-    "CardNumber": "CC01-019",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "8d1d1e48-9ecf-43e1-9b34-efb44ea1a61d": {
     "Name": "อินทรีย์แมน",
     "CardNumber": "CC01-021",
@@ -5592,24 +5830,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "1d8eac44-7c40-4dec-87dc-7be706321eaa": {
-    "Name": "อินทรีย์แมน",
-    "CardNumber": "CC01-021",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "e02b28ad-e0c7-4a08-9de7-349c5c5760dc": {
     "Name": "นนทก นิ้วเพชร",
     "CardNumber": "CC01-022",
     "Rarity": "SR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "20480146-901b-40be-a191-b77fb10b5d74": {
-    "Name": "ตำรวจไซบอร์ค จ่าคอป",
-    "CardNumber": "CC01-023",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5627,24 +5851,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "cf641e16-a06e-4897-a2d0-62f001018c95": {
-    "Name": "รัททาทุย",
-    "CardNumber": "CC01-024",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "1319d67a-7725-4614-9a71-8154e16f8ebe": {
     "Name": "รัททาทุย พ่อพันธุ์",
     "CardNumber": "CC01-025",
     "Rarity": "UR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "f90dc214-38a9-4f1d-9e3e-3e01b1158953": {
-    "Name": "รัททาทุย พ่อพันธุ์",
-    "CardNumber": "CC01-025",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5676,13 +5886,6 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "97ab4117-fec6-4a3b-b686-75ef6892936f": {
-    "Name": "นายนิรยบาล แว่น",
-    "CardNumber": "CC01-029",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "ecc45d70-97be-44ca-9a5b-fe6e6bb860f7": {
     "Name": "แบงค์ ผู้รู้ความจริง",
     "CardNumber": "CC01-030",
@@ -5711,24 +5914,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "75b19c78-20b9-401b-83f4-88af7782a8f4": {
-    "Name": "จ่ามะนาว Tank Ranger",
-    "CardNumber": "CC01-033",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "3c5152c7-6835-410c-8cb1-7f1546671fad": {
     "Name": "จ่าแดงเดือด Tank Ranger",
     "CardNumber": "CC01-034",
     "Rarity": "UR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "5b4bb132-5bd9-49b2-a00f-3d317b81bd51": {
-    "Name": "จ่าแดงเดือด Tank Ranger",
-    "CardNumber": "CC01-034",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5739,24 +5928,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "c2a15f55-608b-4248-9b9a-0df698706224": {
-    "Name": "เทวดาตัวเปิด",
-    "CardNumber": "CC01-035",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "8495357f-d710-4cc4-91e0-bdd9fdc85b32": {
     "Name": "ตึก",
     "CardNumber": "CC01-036",
     "Rarity": "UR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "f666ca17-3235-422b-b65e-c8687d4a0fe2": {
-    "Name": "ตึก",
-    "CardNumber": "CC01-036",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5774,24 +5949,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "4921daab-8c57-40bd-b968-b02e0c3a4dbf": {
-    "Name": "ลูกค้าชาบู",
-    "CardNumber": "CC01-038",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "fb6c53d6-7b82-4067-bf3f-64d80a43d314": {
     "Name": "จอมมังการ์ด",
     "CardNumber": "CC01-039",
     "Rarity": "SR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "e353f9ef-435f-44a1-b4f0-75cc743f4a0f": {
-    "Name": "จอมมังการ์ด",
-    "CardNumber": "CC01-039",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5809,13 +5970,6 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "a3c8460c-af63-40b7-86f6-d031f4e06b42": {
-    "Name": "เฟรนชี่",
-    "CardNumber": "CC01-012",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "ee0a2093-52f5-4710-8720-1eb5b5618221": {
     "Name": "พระพรหม เทพผู้สร้าง",
     "CardNumber": "CC01-003",
@@ -5823,10 +5977,17 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "82e5d308-2082-4639-be77-68c28fdd1ec8": {
-    "Name": "ไอ้หนุ่มรด.",
-    "CardNumber": "CC01-041",
-    "Rarity": "SCR",
+  "2b1ee108-7971-45e5-bae8-772ae5ece670": {
+    "Name": "พระอิศวร เทพผู้ทำลาย",
+    "CardNumber": "CC01-001",
+    "Rarity": "SEC",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
+  "5b25e6e3-bb6a-4465-bb06-a1e37e16493b": {
+    "Name": "พระนารายณ์ เทพผู้พิทักษ์",
+    "CardNumber": "CC01-002",
+    "Rarity": "SEC",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5837,24 +5998,10 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
-  "2b1ee108-7971-45e5-bae8-772ae5ece670": {
-    "Name": "พระอิศวร เทพผู้ทำลาย",
-    "CardNumber": "CC01-001",
-    "Rarity": "SCR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
   "58dafc7b-73d0-4f6f-928b-a48ef4f36426": {
     "Name": "พระนารายณ์ เทพผู้พิทักษ์",
     "CardNumber": "CC01-002",
     "Rarity": "SR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "5b25e6e3-bb6a-4465-bb06-a1e37e16493b": {
-    "Name": "พระนารายณ์ เทพผู้พิทักษ์",
-    "CardNumber": "CC01-002",
-    "Rarity": "SCR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -5865,6 +6012,13 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
+  "da625605-0b79-40e2-8168-5e41b1b21f70": {
+    "Name": "อู๊ด ประธานผู้รู้ความจริง",
+    "CardNumber": "BT04-020",
+    "Rarity": "CBR",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
   "4fa32b6d-50c8-42e8-912f-89477e72471b": {
     "Name": "อู๊ด ประธานผู้รู้ความจริง",
     "CardNumber": "BT04-020",
@@ -5872,10 +6026,31 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "da625605-0b79-40e2-8168-5e41b1b21f70": {
-    "Name": "อู๊ด ประธานผู้รู้ความจริง",
-    "CardNumber": "BT04-020",
-    "Rarity": "CR",
+  "6a04fec7-7bf7-421c-8ca8-6abae1e87e5a": {
+    "Name": "งานจับมือ",
+    "CardNumber": "BT04-048",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "b4b8d1de-0242-4345-8a06-9818cc4ab5bd": {
+    "Name": "เชาว์ปัญญาลิง - ชิงปัญญาเรา",
+    "CardNumber": "BT04-050",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "025ca743-2e51-4779-bb56-33edaa5cbbc8": {
+    "Name": "พิภพรัททาทุย",
+    "CardNumber": "BT04-059",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "bce5d4a8-b752-453f-a197-66ebc4f401f5": {
+    "Name": "Podcast Untitled Case",
+    "CardNumber": "BT04-060",
+    "Rarity": "SEC",
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
@@ -5900,13 +6075,6 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "6a04fec7-7bf7-421c-8ca8-6abae1e87e5a": {
-    "Name": "งานจับมือ",
-    "CardNumber": "BT04-048",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "b115ccfd-ee4b-4b2f-a0d4-fe147087dbb5": {
     "Name": "เอาไปอยู่ด้วย",
     "CardNumber": "BT04-049",
@@ -5918,13 +6086,6 @@
     "Name": "เชาว์ปัญญาลิง - ชิงปัญญาเรา",
     "CardNumber": "BT04-050",
     "Rarity": "SR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
-  "b4b8d1de-0242-4345-8a06-9818cc4ab5bd": {
-    "Name": "เชาว์ปัญญาลิง - ชิงปัญญาเรา",
-    "CardNumber": "BT04-050",
-    "Rarity": "SCR",
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
@@ -5991,13 +6152,6 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "025ca743-2e51-4779-bb56-33edaa5cbbc8": {
-    "Name": "พิภพรัททาทุย",
-    "CardNumber": "BT04-059",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "86a1da5a-3b50-42f6-bbda-532cf6e5df04": {
     "Name": "Podcast Untitled Case",
     "CardNumber": "BT04-060",
@@ -6005,17 +6159,80 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "bce5d4a8-b752-453f-a197-66ebc4f401f5": {
-    "Name": "Podcast Untitled Case",
-    "CardNumber": "BT04-060",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "132a1e77-643d-4caa-b904-c02e3d3e9e44": {
     "Name": "ความจริงงงงงงง",
     "CardNumber": "BT04-047",
     "Rarity": "C",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "d1743880-c2aa-4979-ad26-c084c14f9261": {
+    "Name": "ราม และ วิโรจน์",
+    "CardNumber": "BT04-007",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "933fd98d-382b-4c90-9021-47691e87972d": {
+    "Name": "ไดโนกาฬสินธุ์ - สยามโมไทรันนัส",
+    "CardNumber": "BT04-010",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "641b5596-d1b6-4f16-9478-6a266c840404": {
+    "Name": "ริกกี้ คุณตาใจดี",
+    "CardNumber": "BT04-016",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "4b313855-351d-4f55-b5df-2115ed4e80af": {
+    "Name": "มาวิน เซียนเบ็ด",
+    "CardNumber": "BT04-014",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "c0f32179-c7d1-45d1-94b8-814c2a10f5e4": {
+    "Name": "คนแก่สติเลอะเลือนผู้รู้ความจริง",
+    "CardNumber": "BT04-019",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "a9aec08a-65bc-4431-8d8d-240dd16f08ec": {
+    "Name": "อู๊ด ประธานผู้รู้ความจริง",
+    "CardNumber": "BT04-020",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "5225b299-b6a8-478c-8c64-df8a6744e9a7": {
+    "Name": "ลูกเขยบิ๊ก",
+    "CardNumber": "BT04-026",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "199282e4-a23e-4ed6-a168-6fff4a8fede5": {
+    "Name": "พญายักษ์ ทศกัณฐ์",
+    "CardNumber": "BT04-028",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "62e18b19-ae5a-41c8-96da-53a800c9bd7c": {
+    "Name": "มาติเนซ Tank Ranger",
+    "CardNumber": "BT04-030",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
+  "af405510-5062-40f2-b402-fe34c02221a9": {
+    "Name": "Grand Rumble !!!!",
+    "CardNumber": "BT04-042",
+    "Rarity": "SEC",
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
@@ -6047,24 +6264,10 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "d1743880-c2aa-4979-ad26-c084c14f9261": {
-    "Name": "ราม และ วิโรจน์",
-    "CardNumber": "BT04-007",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "1dc6ba63-ad10-4742-9675-7f1ea6cfd113": {
     "Name": "ไดโนกาฬสินธุ์ - สยามโมไทรันนัส",
     "CardNumber": "BT04-010",
     "Rarity": "UR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
-  "933fd98d-382b-4c90-9021-47691e87972d": {
-    "Name": "ไดโนกาฬสินธุ์ - สยามโมไทรันนัส",
-    "CardNumber": "BT04-010",
-    "Rarity": "SCR",
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
@@ -6103,13 +6306,6 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "641b5596-d1b6-4f16-9478-6a266c840404": {
-    "Name": "ริกกี้ คุณตาใจดี",
-    "CardNumber": "BT04-016",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "6ad6a70c-687f-411b-bbfb-5b9c1c4eeffc": {
     "Name": "หมานมเย็น",
     "CardNumber": "BT04-017",
@@ -6121,13 +6317,6 @@
     "Name": "รัททาทุย 2 หัว",
     "CardNumber": "BT04-018",
     "Rarity": "C",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
-  "4b313855-351d-4f55-b5df-2115ed4e80af": {
-    "Name": "มาวิน เซียนเบ็ด",
-    "CardNumber": "BT04-014",
-    "Rarity": "SCR",
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
@@ -6152,24 +6341,10 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "c0f32179-c7d1-45d1-94b8-814c2a10f5e4": {
-    "Name": "คนแก่สติเลอะเลือนผู้รู้ความจริง",
-    "CardNumber": "BT04-019",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "f017568f-69ba-4564-a1db-22fd056dc031": {
     "Name": "อู๊ด ประธานผู้รู้ความจริง",
     "CardNumber": "BT04-020",
     "Rarity": "UR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
-  "a9aec08a-65bc-4431-8d8d-240dd16f08ec": {
-    "Name": "อู๊ด ประธานผู้รู้ความจริง",
-    "CardNumber": "BT04-020",
-    "Rarity": "SCR",
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
@@ -6222,13 +6397,6 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "5225b299-b6a8-478c-8c64-df8a6744e9a7": {
-    "Name": "ลูกเขยบิ๊ก",
-    "CardNumber": "BT04-026",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "b8948e4b-260f-4402-80aa-cc8a3e72ed21": {
     "Name": "ผู้งมงาย",
     "CardNumber": "BT04-027",
@@ -6243,13 +6411,6 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "199282e4-a23e-4ed6-a168-6fff4a8fede5": {
-    "Name": "พญายักษ์ ทศกัณฐ์",
-    "CardNumber": "BT04-028",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "c7204d54-b711-474b-8411-8b74d8da7dad": {
     "Name": "เสามงคล ทรงโรมัน",
     "CardNumber": "BT04-029",
@@ -6261,13 +6422,6 @@
     "Name": "มาติเนซ Tank Ranger",
     "CardNumber": "BT04-030",
     "Rarity": "SR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
-  "62e18b19-ae5a-41c8-96da-53a800c9bd7c": {
-    "Name": "มาติเนซ Tank Ranger",
-    "CardNumber": "BT04-030",
-    "Rarity": "SCR",
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
@@ -6348,13 +6502,6 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
-  "af405510-5062-40f2-b402-fe34c02221a9": {
-    "Name": "Grand Rumble !!!!",
-    "CardNumber": "BT04-042",
-    "Rarity": "SCR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
   "dc7f8198-041e-4ce7-91dc-ef7d33abc455": {
     "Name": "Grand Rumble !!!!",
     "CardNumber": "BT04-042",
@@ -6362,17 +6509,17 @@
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
+  "7ee7b5a5-cfed-406b-b3c4-37c86ae0b6d1": {
+    "Name": "จอมหักกระดูก",
+    "CardNumber": "BT04-001",
+    "Rarity": "SEC",
+    "SetCode": "BT04",
+    "SetName": "[BT04] ความจริง Today"
+  },
   "41f855b8-46ee-4b38-83db-50dfe385265b": {
     "Name": "จอมหักกระดูก",
     "CardNumber": "BT04-001",
     "Rarity": "UR",
-    "SetCode": "BT04",
-    "SetName": "[BT04] ความจริง Today"
-  },
-  "7ee7b5a5-cfed-406b-b3c4-37c86ae0b6d1": {
-    "Name": "จอมหักกระดูก",
-    "CardNumber": "BT04-001",
-    "Rarity": "SCR",
     "SetCode": "BT04",
     "SetName": "[BT04] ความจริง Today"
   },
@@ -6411,6 +6558,34 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
+  "9995a48b-cea9-463d-a686-30cd674b069b": {
+    "Name": "ซุปเปอร์สแน็ค !!",
+    "CardNumber": "BT03-045",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "cc2a5fe9-685f-445e-821e-fe5b38826a0a": {
+    "Name": "งับ",
+    "CardNumber": "BT03-050",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "da1e704d-9d81-428e-9a7f-cb526fa3eb00": {
+    "Name": "เยี่ยวรดศาล",
+    "CardNumber": "BT03-044",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "1162c70c-e760-4501-8a2e-e7d6f689672a": {
+    "Name": "สายฟ้า วัชระ",
+    "CardNumber": "BT03-056",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
   "9d820a2c-488c-4e8d-84c2-6eb28010ca4b": {
     "Name": "สายฟ้า วัชระ",
     "CardNumber": "BT03-056",
@@ -6439,13 +6614,6 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
-  "9995a48b-cea9-463d-a686-30cd674b069b": {
-    "Name": "ซุปเปอร์สแน็ค !!",
-    "CardNumber": "BT03-045",
-    "Rarity": "SCR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
   "ef7a17c4-60d0-4ea8-9eac-0f0ba5ec941c": {
     "Name": "ไม่เจ้ายังไม่พร้อม",
     "CardNumber": "BT03-047",
@@ -6464,13 +6632,6 @@
     "Name": "คว้าปืนมายิงหมี",
     "CardNumber": "BT03-049",
     "Rarity": "C",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "cc2a5fe9-685f-445e-821e-fe5b38826a0a": {
-    "Name": "งับ",
-    "CardNumber": "BT03-050",
-    "Rarity": "SCR",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6495,13 +6656,6 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
-  "da1e704d-9d81-428e-9a7f-cb526fa3eb00": {
-    "Name": "เยี่ยวรดศาล",
-    "CardNumber": "BT03-044",
-    "Rarity": "SCR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
   "1df7f253-81c1-41df-bfcb-d7e20da0240b": {
     "Name": "ยาแก้ไอน้ำดำ",
     "CardNumber": "BT03-053",
@@ -6520,13 +6674,6 @@
     "Name": "ขวานไม้เน่าๆเหม็นๆ",
     "CardNumber": "BT03-054",
     "Rarity": "C",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "1162c70c-e760-4501-8a2e-e7d6f689672a": {
-    "Name": "สายฟ้า วัชระ",
-    "CardNumber": "BT03-056",
-    "Rarity": "SCR",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6558,6 +6705,83 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
+  "dfe60444-dce7-45ff-af10-ec03c3155d8a": {
+    "Name": "หุ่นนักรบผู้กล้า : ไมเกรน",
+    "CardNumber": "BT03-004",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "ab4f46b4-6d98-4dda-8ab7-81e7a58a75db": {
+    "Name": "กาฬสินธุ์แมน",
+    "CardNumber": "BT03-008",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "0c61bdc8-3871-4335-af81-9d6b4bf59338": {
+    "Name": "จีสัส",
+    "CardNumber": "BT03-009",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "a0b310f8-33bd-4849-90ca-cb448d4fef00": {
+    "Name": "ไดโนกาฬสินธุ์ - กินรีมิมัส",
+    "CardNumber": "BT03-011",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "59aa0184-5b84-4179-bb32-f210cd9bdc6c": {
+    "Name": "แดรกคูลา",
+    "CardNumber": "BT03-020",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "786d56b4-3005-424e-bdb8-a3cfbfa74793": {
+    "Name": "จ่างู อสรพิษพิฆาตจักรกล",
+    "CardNumber": "BT03-018",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "aa1c0b36-d690-4cfe-a017-7b562130df58": {
+    "Name": "โลกิ เทพแอสการ์ดแห่งการหลอกลวง",
+    "CardNumber": "BT03-023",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "c80dc6c5-7296-406f-a66f-c45a111daa1e": {
+    "Name": "ฮามดัล เทพผู้รู้เห็น แห่งแอสการ์ด",
+    "CardNumber": "BT03-025",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "9cc2315e-a576-4b00-a61f-563b45f24310": {
+    "Name": "ราชาอาณาจักรของแพง  พระเจ้านิโคไล",
+    "CardNumber": "BT03-028",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "d88dfa79-ad33-4e81-a804-000953405019": {
+    "Name": "พาลี",
+    "CardNumber": "BT03-034",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
+  "f0553257-919b-4a6f-90eb-30dad3ef529d": {
+    "Name": "นางมณโฑ",
+    "CardNumber": "BT03-035",
+    "Rarity": "SEC",
+    "SetCode": "BT03",
+    "SetName": "[BT03] อมนุษย์ Invasion"
+  },
   "fbc87fb3-8898-4499-b2e1-bbc76643063b": {
     "Name": "พระลักษมี",
     "CardNumber": "BT03-001",
@@ -6586,24 +6810,10 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
-  "dfe60444-dce7-45ff-af10-ec03c3155d8a": {
-    "Name": "หุ่นนักรบผู้กล้า : ไมเกรน",
-    "CardNumber": "BT03-004",
-    "Rarity": "SCR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
   "28f83fa7-b92b-4993-890b-661bf4c7850c": {
     "Name": "ยานเกราะผู้กล้า : ไดบาเรีย",
     "CardNumber": "BT03-006",
     "Rarity": "C",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "ab4f46b4-6d98-4dda-8ab7-81e7a58a75db": {
-    "Name": "กาฬสินธุ์แมน",
-    "CardNumber": "BT03-008",
-    "Rarity": "SCR",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6642,24 +6852,10 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
-  "0c61bdc8-3871-4335-af81-9d6b4bf59338": {
-    "Name": "จีสัส",
-    "CardNumber": "BT03-009",
-    "Rarity": "SCR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
   "968c11a2-6a37-4a95-affe-c3759893d639": {
     "Name": "โอตะปุส",
     "CardNumber": "BT03-014",
     "Rarity": "C",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "a0b310f8-33bd-4849-90ca-cb448d4fef00": {
-    "Name": "ไดโนกาฬสินธุ์ - กินรีมิมัส",
-    "CardNumber": "BT03-011",
-    "Rarity": "SCR",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6726,13 +6922,6 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
-  "59aa0184-5b84-4179-bb32-f210cd9bdc6c": {
-    "Name": "แดรกคูลา",
-    "CardNumber": "BT03-020",
-    "Rarity": "SCR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
   "eb3a3a5f-6e5d-442a-a7f4-c267b55f10f7": {
     "Name": "อีแป๋ม ผีกระสือ RGB",
     "CardNumber": "BT03-021",
@@ -6744,13 +6933,6 @@
     "Name": "โลกิ เทพแอสการ์ดแห่งการหลอกลวง",
     "CardNumber": "BT03-023",
     "Rarity": "SR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "786d56b4-3005-424e-bdb8-a3cfbfa74793": {
-    "Name": "จ่างู อสรพิษพิฆาตจักรกล",
-    "CardNumber": "BT03-018",
-    "Rarity": "SCR",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6768,24 +6950,10 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
-  "aa1c0b36-d690-4cfe-a017-7b562130df58": {
-    "Name": "โลกิ เทพแอสการ์ดแห่งการหลอกลวง",
-    "CardNumber": "BT03-023",
-    "Rarity": "SCR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
   "94e4a258-ee6f-4793-ac7f-79bde999f1b0": {
     "Name": "ฮามดัล เทพผู้รู้เห็น แห่งแอสการ์ด",
     "CardNumber": "BT03-025",
     "Rarity": "SR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "c80dc6c5-7296-406f-a66f-c45a111daa1e": {
-    "Name": "ฮามดัล เทพผู้รู้เห็น แห่งแอสการ์ด",
-    "CardNumber": "BT03-025",
-    "Rarity": "SCR",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6810,10 +6978,10 @@
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
-  "9cc2315e-a576-4b00-a61f-563b45f24310": {
-    "Name": "ราชาอาณาจักรของแพง  พระเจ้านิโคไล",
-    "CardNumber": "BT03-028",
-    "Rarity": "SCR",
+  "26b83b95-2413-4e35-b183-a1c88daf54db": {
+    "Name": "ทหารอาณาจักรของแพง",
+    "CardNumber": "BT03-029",
+    "Rarity": "C",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6821,13 +6989,6 @@
     "Name": "ราชาอาณาจักรของแพง พระเจ้านิโคไล",
     "CardNumber": "BT03-028",
     "Rarity": "PR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "26b83b95-2413-4e35-b183-a1c88daf54db": {
-    "Name": "ทหารอาณาจักรของแพง",
-    "CardNumber": "BT03-029",
-    "Rarity": "C",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6863,20 +7024,6 @@
     "Name": "พาลี",
     "CardNumber": "BT03-034",
     "Rarity": "UR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "d88dfa79-ad33-4e81-a804-000953405019": {
-    "Name": "พาลี",
-    "CardNumber": "BT03-034",
-    "Rarity": "SCR",
-    "SetCode": "BT03",
-    "SetName": "[BT03] อมนุษย์ Invasion"
-  },
-  "f0553257-919b-4a6f-90eb-30dad3ef529d": {
-    "Name": "นางมณโฑ",
-    "CardNumber": "BT03-035",
-    "Rarity": "SCR",
     "SetCode": "BT03",
     "SetName": "[BT03] อมนุษย์ Invasion"
   },
@@ -6947,27 +7094,34 @@
     "Name": "พญายม",
     "CardNumber": "PRMO-020",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "9bd5024b-a340-482b-8d8f-9f1654c48b5e": {
     "Name": "ใบดำใบแดง",
     "CardNumber": "PRMO-021",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "1d8594f7-7afe-4a37-a260-93a14f85e41e": {
     "Name": "พระอินทร์",
     "CardNumber": "PRMO-022",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "bb4c4c60-49f4-4ef9-bb1f-dcbae268ebea": {
     "Name": "[กล่อง] กำเนิดจากน้ำ",
     "CardNumber": "NULL",
     "Rarity": "-",
+    "SetCode": "SD05",
+    "SetName": "[SD05] กำเนิดจากน้ำ"
+  },
+  "31afccb5-99e8-4303-8ca5-1fc9ba67bc67": {
+    "Name": "วอเตอร์แมน",
+    "CardNumber": "SD05-006",
+    "Rarity": "PR",
     "SetCode": "SD05",
     "SetName": "[SD05] กำเนิดจากน้ำ"
   },
@@ -7010,13 +7164,6 @@
     "Name": "วอเตอร์แมน",
     "CardNumber": "SD05-006",
     "Rarity": "UR",
-    "SetCode": "SD05",
-    "SetName": "[SD05] กำเนิดจากน้ำ"
-  },
-  "31afccb5-99e8-4303-8ca5-1fc9ba67bc67": {
-    "Name": "วอเตอร์แมน",
-    "CardNumber": "SD05-006",
-    "Rarity": "PR",
     "SetCode": "SD05",
     "SetName": "[SD05] กำเนิดจากน้ำ"
   },
@@ -7157,55 +7304,160 @@
     "Name": "ไอ นีด เมดิก",
     "CardNumber": "PRMO-018",
     "Rarity": "-",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "fb3dd24f-c184-49f9-8abb-5df1f7c94b21": {
     "Name": "เสามงคล",
     "CardNumber": "PRMO-017",
     "Rarity": "-",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "57cf9572-bc38-4389-9164-0afa70d0bca0": {
     "Name": "เอเลี่ยนแสงสีฟ้า",
     "CardNumber": "PRMO-016",
     "Rarity": "-",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "1d005823-a7ca-4041-8df1-10e23b26f628": {
     "Name": "ช่วยโลกใบนี้ไว้",
     "CardNumber": "PRMO-010",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "a2a06411-25ac-4b7d-9fc8-5dd70036420c": {
     "Name": "มีมมิจัง ไอดอลหน้าใหม่",
     "CardNumber": "PRMO-011",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "8acebe08-a2f5-4382-a5b7-e964e34fbdb1": {
     "Name": "แบงค์ ผู้รู้ความจริง",
     "CardNumber": "PRMO-012",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "4a803933-950d-44c2-849d-718a800459ea": {
     "Name": "ความเจริญ",
     "CardNumber": "PRMO-019",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "70dba91e-f92e-420b-9b39-375409eff372": {
     "Name": "[กล่อง] Attack on เพื่อนบ้าน",
     "CardNumber": "NULL",
     "Rarity": "-",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "744a47cd-a6a2-409a-86b1-3c7a807d407a": {
+    "Name": "รถถัง B66 - เอ็กซ์เซลเซอร์",
+    "CardNumber": "BT02-029",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "f98a9471-8016-4d25-a86b-24eeb9d106df": {
+    "Name": "40ดีกรีแมน",
+    "CardNumber": "BT02-023",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "90e835fe-1b02-4165-99e8-17688f475877": {
+    "Name": "แมลงปอทอด",
+    "CardNumber": "BT02-047",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "cd775836-f043-4634-823c-64895e8b6aba": {
+    "Name": "ไปเลยมอนตี้",
+    "CardNumber": "BT02-054",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "08131d9d-ba50-4c81-b393-52b1636ef6a8": {
+    "Name": "ช็อตกัน นัยนาวุธ",
+    "CardNumber": "BT02-057",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "1d3208ca-f108-4c99-ba04-b828f18a182a": {
+    "Name": "แอสการ์ดคือสถานที่ไม่ใช่ผู้คน",
+    "CardNumber": "BT02-060",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "2d808541-d68c-4920-b757-3e056fe81a38": {
+    "Name": "ซันนี่",
+    "CardNumber": "BT02-014",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "5aca6fae-b201-45d5-a466-e3e5d299e8c2": {
+    "Name": "ฤษี โคบุตร",
+    "CardNumber": "BT02-016",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "edbc2123-fe1b-43c7-bd68-3d8017bca22c": {
+    "Name": "ธอร์ เทพเจ้าสายฟ้า แห่ง แอสการ์ด",
+    "CardNumber": "BT02-018",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "8f49ff97-6490-4dd0-b25c-472598efacab": {
+    "Name": "โอดิน พ่อทุกสถาบัน แห่ง แอสการ์ด",
+    "CardNumber": "BT02-019",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "dedf0dac-219b-46e1-96df-a86ce6d6d4b4": {
+    "Name": "ซินแส",
+    "CardNumber": "BT02-025",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "f307c062-3cf7-4fc0-80f8-4051d1bf5bf5": {
+    "Name": "บุญลือ วีรบุรุษเปรต",
+    "CardNumber": "BT02-001",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "eae093a6-6a62-490a-94c1-35fe65400ab3": {
+    "Name": "คนรวย",
+    "CardNumber": "BT02-006",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "3e2528d4-cdc0-46ba-822f-fbba05391c20": {
+    "Name": "พระพรหม",
+    "CardNumber": "BT02-008",
+    "Rarity": "SEC",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "4231b429-6a72-4f3e-ad37-8431f223bd7c": {
+    "Name": "แม่ศรีนวล",
+    "CardNumber": "BT02-011",
+    "Rarity": "SEC",
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
@@ -7234,20 +7486,6 @@
     "Name": "รถถัง B66 - เอ็กซ์เซลเซอร์",
     "CardNumber": "BT02-029",
     "Rarity": "SR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
-  "744a47cd-a6a2-409a-86b1-3c7a807d407a": {
-    "Name": "รถถัง B66 - เอ็กซ์เซลเซอร์",
-    "CardNumber": "BT02-029",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
-  "f98a9471-8016-4d25-a86b-24eeb9d106df": {
-    "Name": "40ดีกรีแมน",
-    "CardNumber": "BT02-023",
-    "Rarity": "SCR",
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
@@ -7412,13 +7650,6 @@
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
-  "90e835fe-1b02-4165-99e8-17688f475877": {
-    "Name": "แมลงปอทอด",
-    "CardNumber": "BT02-047",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
   "47e6c3a8-4b8b-44fe-b61a-3f0eec247727": {
     "Name": "ประกันชั้นต่ำ",
     "CardNumber": "BT02-055",
@@ -7440,20 +7671,6 @@
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
-  "cd775836-f043-4634-823c-64895e8b6aba": {
-    "Name": "ไปเลยมอนตี้",
-    "CardNumber": "BT02-054",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
-  "08131d9d-ba50-4c81-b393-52b1636ef6a8": {
-    "Name": "ช็อตกัน นัยนาวุธ",
-    "CardNumber": "BT02-057",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
   "f3a99cc4-fa86-4a14-83ec-90a778367660": {
     "Name": "ช็อตกัน นัยนาวุธ",
     "CardNumber": "BT02-057",
@@ -7472,13 +7689,6 @@
     "Name": "ประตูนรก",
     "CardNumber": "BT02-058",
     "Rarity": "C",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
-  "1d3208ca-f108-4c99-ba04-b828f18a182a": {
-    "Name": "แอสการ์ดคือสถานที่ไม่ใช่ผู้คน",
-    "CardNumber": "BT02-060",
-    "Rarity": "SCR",
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
@@ -7552,20 +7762,6 @@
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
-  "2d808541-d68c-4920-b757-3e056fe81a38": {
-    "Name": "ซันนี่",
-    "CardNumber": "BT02-014",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
-  "5aca6fae-b201-45d5-a466-e3e5d299e8c2": {
-    "Name": "ฤษี โคบุตร",
-    "CardNumber": "BT02-016",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
   "ff000a21-e6e6-458f-917a-72044783206c": {
     "Name": "ธอร์ เทพเจ้าสายฟ้า แห่ง แอสการ์ด",
     "CardNumber": "BT02-018",
@@ -7573,24 +7769,10 @@
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
-  "edbc2123-fe1b-43c7-bd68-3d8017bca22c": {
-    "Name": "ธอร์ เทพเจ้าสายฟ้า แห่ง แอสการ์ด",
-    "CardNumber": "BT02-018",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
   "04634dd4-c6a8-4b27-85ac-f409b6457adc": {
     "Name": "โอดิน พ่อทุกสถาบัน แห่ง แอสการ์ด",
     "CardNumber": "BT02-019",
     "Rarity": "UR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
-  "8f49ff97-6490-4dd0-b25c-472598efacab": {
-    "Name": "โอดิน พ่อทุกสถาบัน แห่ง แอสการ์ด",
-    "CardNumber": "BT02-019",
-    "Rarity": "SCR",
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
@@ -7636,13 +7818,6 @@
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
-  "dedf0dac-219b-46e1-96df-a86ce6d6d4b4": {
-    "Name": "ซินแส",
-    "CardNumber": "BT02-025",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
   "df18c88a-5abe-4de0-9698-caa44dc58c76": {
     "Name": "บุญลือ วีรบุรุษเปรต",
     "CardNumber": "BT02-001",
@@ -7654,13 +7829,6 @@
     "Name": "วันชัย พ่อบุญลือ",
     "CardNumber": "BT02-002",
     "Rarity": "R",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
-  "f307c062-3cf7-4fc0-80f8-4051d1bf5bf5": {
-    "Name": "บุญลือ วีรบุรุษเปรต",
-    "CardNumber": "BT02-001",
-    "Rarity": "SCR",
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
@@ -7685,24 +7853,10 @@
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
-  "eae093a6-6a62-490a-94c1-35fe65400ab3": {
-    "Name": "คนรวย",
-    "CardNumber": "BT02-006",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
   "4576a4fe-5bbd-4fd0-af9c-e30989157bcb": {
     "Name": "พระพรหม",
     "CardNumber": "BT02-008",
     "Rarity": "UR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
-  "3e2528d4-cdc0-46ba-822f-fbba05391c20": {
-    "Name": "พระพรหม",
-    "CardNumber": "BT02-008",
-    "Rarity": "SCR",
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
@@ -7727,13 +7881,6 @@
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
-  "4231b429-6a72-4f3e-ad37-8431f223bd7c": {
-    "Name": "แม่ศรีนวล",
-    "CardNumber": "BT02-011",
-    "Rarity": "SCR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
   "9259a421-2caa-4eba-bb56-92a43f4d9767": {
     "Name": "เคี้ยวเพื่อนเธอซะ",
     "CardNumber": "BT02-050",
@@ -7745,6 +7892,13 @@
     "Name": "[กล่อง] ทหารไก่ชนเขา",
     "CardNumber": "NULL",
     "Rarity": "-",
+    "SetCode": "SD04",
+    "SetName": "[SD04] ทหารไก่ชนเขา"
+  },
+  "6b3b26d5-3cbf-4759-88fd-d8a8649a4882": {
+    "Name": "MEGA ROR.DOR",
+    "CardNumber": "SD04-005",
+    "Rarity": "PR",
     "SetCode": "SD04",
     "SetName": "[SD04] ทหารไก่ชนเขา"
   },
@@ -7829,13 +7983,6 @@
     "Name": "MEGA ROR.DOR",
     "CardNumber": "SD04-005",
     "Rarity": "UR",
-    "SetCode": "SD04",
-    "SetName": "[SD04] ทหารไก่ชนเขา"
-  },
-  "6b3b26d5-3cbf-4759-88fd-d8a8649a4882": {
-    "Name": "MEGA ROR.DOR",
-    "CardNumber": "SD04-005",
-    "Rarity": "PR",
     "SetCode": "SD04",
     "SetName": "[SD04] ทหารไก่ชนเขา"
   },
@@ -7934,69 +8081,69 @@
     "Name": "สตีฟ Tank Ranger",
     "CardNumber": "PRMO-013",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "257560b0-13b8-4434-a7b5-b251e467b302": {
     "Name": "ฉุบสั่งตาย",
     "CardNumber": "PRMO-014",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "9b19ba43-9268-45e4-b1fb-754e5396735d": {
     "Name": "อรุณีย์ ข้าวมันไก่เมียจ่า",
     "CardNumber": "PRMO-015",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "6ef09afc-92c1-4c36-8818-f40d991b7580": {
     "Name": "ตีแม่",
     "CardNumber": "PRMO-008",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "20ec0063-5a1b-42a8-b56a-ec11208f91e5": {
     "Name": "ตีพ่อ",
     "CardNumber": "PRMO-007",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "27bc549f-1824-4abf-9a40-b2fa3b5ac49c": {
     "Name": "พระอิศวร",
     "CardNumber": "PRMO-009",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "b2f18266-6281-4d89-8ff6-b9ecea62cb67": {
     "Name": "น้ำชูกำลัง",
     "CardNumber": "PRMO-004",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "192c9835-10b2-462e-859f-26f3ae61d301": {
     "Name": "ไม้เกาหลัง",
     "CardNumber": "PRMO-005",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "ddf3f0a0-2f36-43d3-8536-963839f17343": {
     "Name": "ลูกแม่ศรีนวล",
     "CardNumber": "PRMO-006",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "90609be1-1f19-472f-9ea0-544b9a61e70f": {
     "Name": "นนทก นิ้วเพชร",
     "CardNumber": "BT01-001",
-    "Rarity": "CR",
+    "Rarity": "CBR",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
@@ -8032,34 +8179,41 @@
     "Name": "ผู้เล่นยุคแรก",
     "CardNumber": "PRE0-001",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "4185741c-20ae-4ede-a07f-0fd356531165": {
     "Name": "รัททาทุย",
     "CardNumber": "PRMO-001",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "d712bc66-3e6f-4ffe-a8a6-6a75f6432d57": {
     "Name": "นายนิรยบาล ปฎิรูป",
     "CardNumber": "PRMO-002",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "015063a4-70b5-410a-a856-697b8e7057a4": {
     "Name": "อุบัติเหตุ!!!",
     "CardNumber": "PRMO-003",
     "Rarity": "PROMO",
-    "SetCode": "PROMO",
-    "SetName": "[PROMO] การ์ดโปรโม"
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
   },
   "c43435d3-f42a-496a-a6a9-bee99ed44ca9": {
     "Name": "ชายจากอนาคต",
     "CardNumber": "BT01-041",
-    "Rarity": "SCR",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "fd8705ba-2402-4c17-9e16-758c4eefb95b": {
+    "Name": "ริกกี้ นักปลอมแปลง",
+    "CardNumber": "BT01-042",
+    "Rarity": "SEC",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
@@ -8067,13 +8221,6 @@
     "Name": "ริกกี้ นักปลอมแปลง",
     "CardNumber": "BT01-042",
     "Rarity": "UR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
-  "fd8705ba-2402-4c17-9e16-758c4eefb95b": {
-    "Name": "ริกกี้ นักปลอมแปลง",
-    "CardNumber": "BT01-042",
-    "Rarity": "SCR",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
@@ -8168,17 +8315,87 @@
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
+  "1d10139d-8297-4023-a937-4e97f2719dba": {
+    "Name": "นนทก นิ้วเพชร",
+    "CardNumber": "BT01-001",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "41e7cc98-2cf2-41a0-887e-3b603516f877": {
+    "Name": "ชาวบ้านขายน้ำ",
+    "CardNumber": "BT01-006",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "ac9c1f9a-d53c-42c4-b5dd-1ff253828897": {
+    "Name": "ปื้ด เด็กเปรต",
+    "CardNumber": "BT01-002",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "333ee4ca-b0b3-4b23-9121-2a5ef147b410": {
+    "Name": "รัททาทุย นางพญา",
+    "CardNumber": "BT01-008",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "f3d60d02-b9e9-4036-9684-bbdbad001caf": {
+    "Name": "พ่อบุญใหญ่",
+    "CardNumber": "BT01-013",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "294f7249-f643-46fa-9918-4561679d4452": {
+    "Name": "จ่ามะนาว",
+    "CardNumber": "BT01-014",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "a15fe680-1551-4d57-8b12-bb7f7bea46d6": {
+    "Name": "สุวรรณ",
+    "CardNumber": "BT01-016",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "288f1436-5cd0-4873-9ff2-51278f1f5980": {
+    "Name": "ทศกัณฑ์ยักษ์ที่---เมียพระอิศวร",
+    "CardNumber": "BT01-017",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "40e44ceb-cd28-4146-bdcd-096f4e4e0b2a": {
+    "Name": "ศาลพระภูมิ",
+    "CardNumber": "BT01-020",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "45a00671-22e1-403b-95db-4deb53bf2a96": {
+    "Name": "เมตตาระยะยาว",
+    "CardNumber": "BT01-036",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
+  "65d26a52-d5b1-4647-84e8-c9c34da1c625": {
+    "Name": "ความเจริญ",
+    "CardNumber": "BT01-038",
+    "Rarity": "SEC",
+    "SetCode": "BT01",
+    "SetName": "[BT01] Welcome ตลิ่งชัน"
+  },
   "34f2da80-acf1-4ae2-b432-c20ced2e50b2": {
     "Name": "นนทก นิ้วเพชร",
     "CardNumber": "BT01-001",
     "Rarity": "UR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
-  "1d10139d-8297-4023-a937-4e97f2719dba": {
-    "Name": "นนทก นิ้วเพชร",
-    "CardNumber": "BT01-001",
-    "Rarity": "SCR",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
@@ -8193,20 +8410,6 @@
     "Name": "ปื้ด เด็กเปรต",
     "CardNumber": "BT01-002",
     "Rarity": "SR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
-  "41e7cc98-2cf2-41a0-887e-3b603516f877": {
-    "Name": "ชาวบ้านขายน้ำ",
-    "CardNumber": "BT01-006",
-    "Rarity": "SCR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
-  "ac9c1f9a-d53c-42c4-b5dd-1ff253828897": {
-    "Name": "ปื้ด เด็กเปรต",
-    "CardNumber": "BT01-002",
-    "Rarity": "SCR",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
@@ -8252,13 +8455,6 @@
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
-  "333ee4ca-b0b3-4b23-9121-2a5ef147b410": {
-    "Name": "รัททาทุย นางพญา",
-    "CardNumber": "BT01-008",
-    "Rarity": "SCR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
   "dc12536f-ce3c-4cec-b50e-85506ab12c6c": {
     "Name": "รัททาทุย พ่อพันธุ์",
     "CardNumber": "BT01-009",
@@ -8294,24 +8490,10 @@
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
-  "f3d60d02-b9e9-4036-9684-bbdbad001caf": {
-    "Name": "พ่อบุญใหญ่",
-    "CardNumber": "BT01-013",
-    "Rarity": "SCR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
   "c4b14630-bb6d-4f36-96ec-2d7b5397a9ba": {
     "Name": "จ่ามะนาว",
     "CardNumber": "BT01-014",
     "Rarity": "SR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
-  "294f7249-f643-46fa-9918-4561679d4452": {
-    "Name": "จ่ามะนาว",
-    "CardNumber": "BT01-014",
-    "Rarity": "SCR",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
@@ -8329,24 +8511,10 @@
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
-  "a15fe680-1551-4d57-8b12-bb7f7bea46d6": {
-    "Name": "สุวรรณ",
-    "CardNumber": "BT01-016",
-    "Rarity": "SCR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
   "8c8207b9-fe03-41dd-a5ff-d574fe008715": {
     "Name": "ทศกัณฑ์ยักษ์ที่---เมียพระอิศวร",
     "CardNumber": "BT01-017",
     "Rarity": "UR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
-  "288f1436-5cd0-4873-9ff2-51278f1f5980": {
-    "Name": "ทศกัณฑ์ยักษ์ที่---เมียพระอิศวร",
-    "CardNumber": "BT01-017",
-    "Rarity": "SCR",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
@@ -8368,13 +8536,6 @@
     "Name": "ศาลพระภูมิ",
     "CardNumber": "BT01-020",
     "Rarity": "SR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
-  "40e44ceb-cd28-4146-bdcd-096f4e4e0b2a": {
-    "Name": "ศาลพระภูมิ",
-    "CardNumber": "BT01-020",
-    "Rarity": "SCR",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
@@ -8490,13 +8651,6 @@
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
-  "45a00671-22e1-403b-95db-4deb53bf2a96": {
-    "Name": "เมตตาระยะยาว",
-    "CardNumber": "BT01-036",
-    "Rarity": "SCR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
   "1d094fd0-4f6a-496a-aeb9-0655662571e4": {
     "Name": "เพื่อลูกค้า",
     "CardNumber": "BT01-037",
@@ -8508,13 +8662,6 @@
     "Name": "ความเจริญ",
     "CardNumber": "BT01-038",
     "Rarity": "SR",
-    "SetCode": "BT01",
-    "SetName": "[BT01] Welcome ตลิ่งชัน"
-  },
-  "65d26a52-d5b1-4647-84e8-c9c34da1c625": {
-    "Name": "ความเจริญ",
-    "CardNumber": "BT01-038",
-    "Rarity": "SCR",
     "SetCode": "BT01",
     "SetName": "[BT01] Welcome ตลิ่งชัน"
   },
