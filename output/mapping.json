@@ -1,4 +1,739 @@
 {
+  "cf5916e7-5714-4ed1-87f3-17781af43eee": {
+    "Name": "ห้างโรงเกลือ",
+    "CardNumber": "BT09-075",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "324b28a7-540b-4a37-81b0-663ef2e27a2f": {
+    "Name": "ตู้เสื้อผ้าของริกกี้",
+    "CardNumber": "BT09-074",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "b8809b81-be62-4eee-a938-0e226650f838": {
+    "Name": "สำนักภฤคุ",
+    "CardNumber": "BT09-073",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "a3c6939a-4e2e-4173-99af-aafc8686b916": {
+    "Name": "โพเดียมสมาคมผู้รู้ความจริง",
+    "CardNumber": "BT09-072",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "50f60f02-f2ab-4542-90a2-f71502551297": {
+    "Name": "ป่าพงไพร เผ่าพงศ์พันธุ์",
+    "CardNumber": "BT09-071",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "a9d6104f-a2ac-42ea-af5d-896038726181": {
+    "Name": "สวนกล้วยหนีภาษี",
+    "CardNumber": "BT09-070",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "c4ec28c5-842a-49f3-bca1-7660439f7752": {
+    "Name": "ด่านตรวจเข้าเมือง",
+    "CardNumber": "BT09-069",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "c481a59b-7796-4dc6-a80c-76ea54c3252e": {
+    "Name": "ด่านตรวจเข้าเมือง",
+    "CardNumber": "BT09-069",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "92cb4d96-61f4-4628-9fe8-2db41118af2d": {
+    "Name": "กระบองตำรวจ",
+    "CardNumber": "BT09-068",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "bce7be6d-ac37-4b19-8219-a3557758282e": {
+    "Name": "อาวุธของเพมมุ ปืนพกรุ่น 19",
+    "CardNumber": "BT09-067",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "3b01031f-42e5-4162-b353-18fc9bf1f24b": {
+    "Name": "หอกศักดิ์สิทธิ์ เอ็ดดา",
+    "CardNumber": "BT09-066",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "caa1c99c-9c71-4c5f-8d55-92d6e9c9d23c": {
+    "Name": "กระสอบ",
+    "CardNumber": "BT09-065",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "d0cdf648-e2cb-4e82-89a0-cb62405bd4e6": {
+    "Name": "ค้อนโยเนียร์",
+    "CardNumber": "BT09-064",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "a98c4e22-764d-40b0-891e-51ab428c73cf": {
+    "Name": "ลงกาโพรเทคชั่น",
+    "CardNumber": "BT09-063",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "c4d2f7df-6b8b-4702-a3dc-55e1fc69a25f": {
+    "Name": "ตัดเน็ต",
+    "CardNumber": "BT09-062",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "bfcc7824-d57b-4202-b196-e389ba1efaf4": {
+    "Name": "ตัดเน็ต",
+    "CardNumber": "BT09-062",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "f8f6bf5e-7fef-46dd-b07a-59484bc3c68e": {
+    "Name": "ทะลุบ้านทะลุโกศ",
+    "CardNumber": "BT09-061",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "a47bb181-089d-4d75-974f-51b6a9d61060": {
+    "Name": "Skill : Second Energy",
+    "CardNumber": "BT09-060",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "17a2187d-62db-43d3-ab6b-807a9f529b7d": {
+    "Name": "Skill : Hypersense",
+    "CardNumber": "BT09-059",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "5910af7c-3a5b-4729-bf88-565e60ba2edd": {
+    "Name": "Ah-ah, ah!",
+    "CardNumber": "BT09-058",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "f702b7e5-0f20-45a7-85f0-b01a245cc827": {
+    "Name": "ไต้ฝุ่น",
+    "CardNumber": "BT09-057",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "d503d2b5-7613-4d2c-8b56-b4046d4e6736": {
+    "Name": "ไต้ฝุ่น",
+    "CardNumber": "BT09-057",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "ef9abdc1-fa08-4e7c-a3df-4d53c6f6bab2": {
+    "Name": "Skill : Full Drive",
+    "CardNumber": "BT09-056",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "16f40c06-2d31-4d12-8a46-fec71056b1ed": {
+    "Name": "คาถา เสกควายเข้าท้อง",
+    "CardNumber": "BT09-055",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "310b3ae3-a274-440e-a1e9-2291c216dd7b": {
+    "Name": "แผนการตู้เย็นทับ",
+    "CardNumber": "BT09-054",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "b7b643ec-3caf-4c4b-9c0a-0d1546dab87e": {
+    "Name": "ขอให้ตีนไม่ติดพื้น",
+    "CardNumber": "BT09-053",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "703be71c-962f-48bf-829a-4e9a3ec44e99": {
+    "Name": "ผจญภัยด้วยกัน",
+    "CardNumber": "BT09-052",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "bb8c63ff-94e8-4ad7-b722-ecb5c1317d97": {
+    "Name": "ไม้กวาดปีกปักษา",
+    "CardNumber": "BT09-051",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "a912db32-9270-4fca-bcaf-d97ca1ef92d3": {
+    "Name": "ไม้กวาดปีกปักษา",
+    "CardNumber": "BT09-051",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "2d6646a8-e8ed-4805-add6-3e9811f82c29": {
+    "Name": "บลัดดี้แมรี่",
+    "CardNumber": "BT09-050",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "1197f671-60a6-4a6d-ae25-8a30d06dd558": {
+    "Name": "ขอโทษสังคม",
+    "CardNumber": "BT09-049",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "067368f6-dd81-4c73-91c5-83b6498cef56": {
+    "Name": "พี่ NUT",
+    "CardNumber": "BT09-048",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "19e70b8d-dcfe-46fd-ad92-440aa28630ed": {
+    "Name": "วิญญาณร้าย",
+    "CardNumber": "BT09-047",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "623d81e3-0ff6-42b3-9e73-f240816cc5fc": {
+    "Name": "ตัวอะไรสักอย่างที่คล้ายกระต่ายและกินเก่ง",
+    "CardNumber": "BT09-046",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "f152036c-3b83-4f6d-b717-61f2911f4aaa": {
+    "Name": "พอง พอง",
+    "CardNumber": "BT09-045",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "6518e027-c208-4941-ac3b-d2ce830a731d": {
+    "Name": "ขวัญตา เรื่องราว ครุฑเจ้าเวหา",
+    "CardNumber": "BT09-044",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "3c9afbf6-3311-4778-b1b8-a9ffb0eda404": {
+    "Name": "ขวัญตา เรื่องราว ราชาแห่งนาค",
+    "CardNumber": "BT09-043",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "9d812b63-7b7d-47a3-ab62-f8fb934c061a": {
+    "Name": "นักท่องเรื่องราว ขวัญตา",
+    "CardNumber": "BT09-042",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "d3c9f783-d31e-43ba-953d-f9d1d9e533f1": {
+    "Name": "นักท่องเรื่องราว ขวัญตา",
+    "CardNumber": "BT09-042",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "2d6188ab-0b50-47a5-b9c1-9603521b0b40": {
+    "Name": "ท้าวเวสสุวรรณ",
+    "CardNumber": "BT09-041",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "c0e808e7-9b83-47ea-b1f4-64d6ebfa4b53": {
+    "Name": "ท้าวเวสสุวรรณ",
+    "CardNumber": "BT09-041",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "d1bf807e-149d-4442-bfb4-59e718aa54ab": {
+    "Name": "จ่ายุทธ ทหารรักชาติ",
+    "CardNumber": "BT09-040",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "499ba6bc-7296-4b80-9707-d674e1d9a76e": {
+    "Name": "จ่ายุทธ ทหารรักชาติ",
+    "CardNumber": "BT09-040",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "8d4aa783-c43b-4b5a-abed-7b5b1df5ee48": {
+    "Name": "ภูติผลไม้ มะขาม",
+    "CardNumber": "BT09-039",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "89e36a4a-8967-4568-9bd5-bd92daf7c057": {
+    "Name": "ภูติผลไม้ มะเฟือง",
+    "CardNumber": "BT09-038",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "3df0d585-ac4f-4f84-a3ee-04c25969ce70": {
+    "Name": "ภูติผลไม้ มะเหมี่ยว",
+    "CardNumber": "BT09-037",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "4a9c41e5-effe-4688-8960-9cd968cf22f2": {
+    "Name": "ภูติผลไม้ มะม่วง",
+    "CardNumber": "BT09-036",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "a37fba94-288e-4aac-9f04-983302bb8fad": {
+    "Name": "เนฟิล ยักษ์ตัวสุดท้าย",
+    "CardNumber": "BT09-035",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "e29ca7d4-ccdd-494d-ab18-6f56e57db755": {
+    "Name": "ปอนด์ สมาชิกลัทธิแห่หัว",
+    "CardNumber": "BT09-034",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "93f0f2d9-1fc7-430c-9eca-50174ea2c506": {
+    "Name": "สกินวอคเกอร์",
+    "CardNumber": "BT09-033",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "e339b920-fd3a-43c9-bf43-38820763ffab": {
+    "Name": "วินดิโก้ ",
+    "CardNumber": "BT09-032",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "d85fd792-e560-4b79-98c1-be89f4eff73f": {
+    "Name": "ลูเซเน่ โพลีกอน",
+    "CardNumber": "BT09-031",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "2ff4e788-3b67-47eb-8bdb-d62b621884e1": {
+    "Name": "ลูเซเน่ โพลีกอน",
+    "CardNumber": "BT09-031",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "d72567ee-3489-4665-b335-bdd506860314": {
+    "Name": "ลาพิเน่ โพลีกอน",
+    "CardNumber": "BT09-030",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "01a80d51-fd38-41ea-be1e-c499e236b2a9": {
+    "Name": "ลาพิเน่ โพลีกอน",
+    "CardNumber": "BT09-030",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "0d0809ab-e51c-4e6b-b7ea-9841c95b2a6c": {
+    "Name": "สตางค์น้องชายแบงค์ ตัวเขียว",
+    "CardNumber": "BT09-029",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "df137665-2147-4d9c-a540-2504ae46e82d": {
+    "Name": "แบงค์ ตัวแดง",
+    "CardNumber": "BT09-028",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "325be090-3b9b-4832-9a70-786662b34961": {
+    "Name": "แบงค์ ตัวแดง",
+    "CardNumber": "BT09-028",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "c5d9da1b-7324-4ee1-9564-4ec86df7de8c": {
+    "Name": "มิสเตอร์โบโบ้",
+    "CardNumber": "BT09-027",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "e565fdbc-6c84-4f0f-9e99-b799129ceab6": {
+    "Name": "แมวดำ สมาชิกลัทธิแห่หัว",
+    "CardNumber": "BT09-026",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "b575ec2b-5b1c-4845-ba28-b8624071b724": {
+    "Name": "โลกิ เจ้าชายยักษ์น้ำแข็ง",
+    "CardNumber": "BT09-025",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "2244a436-63d5-4038-8f29-b717a00e2e23": {
+    "Name": "ธอร์ บุตรแห่งโอดิน",
+    "CardNumber": "BT09-024",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "7dab59a5-8580-4983-ab10-21cfce5b52e4": {
+    "Name": "ธอร์ บุตรแห่งโอดิน",
+    "CardNumber": "BT09-024",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "27710773-fe52-4ffe-9863-f5ea20644e47": {
+    "Name": "ริน บันนี่เกิร์ล",
+    "CardNumber": "BT09-023",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "d3b46098-c4e0-469f-a8bf-454e24b380c5": {
+    "Name": "โซน่า โพลีกอน",
+    "CardNumber": "BT09-022",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "5e85cada-4960-4347-a0a0-1f5fe97de364": {
+    "Name": "โซน่า โพลีกอน",
+    "CardNumber": "BT09-022",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "d4e05721-0bba-4541-aaea-7188757ec8fd": {
+    "Name": "คราเค่น ปลาหมึกปีศาจ",
+    "CardNumber": "BT09-021",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "8458da13-6ff2-4017-9da6-f98ae3a69496": {
+    "Name": "กัล มนุษย์ดาว R18",
+    "CardNumber": "BT09-020",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "c904cf8c-35c7-4c9f-be0c-b0e87294c84e": {
+    "Name": "กัล มนุษย์ดาว R18",
+    "CardNumber": "BT09-020",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "49637829-ec9a-4f8c-b327-23b52cac97a9": {
+    "Name": "หมาป่าเดียวดาย",
+    "CardNumber": "BT09-019",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "66db656e-276d-4a3d-ba9c-9bf85b7da5a2": {
+    "Name": "ตัวอะไรสักอย่างที่เป็นมิตรและพูดมาก",
+    "CardNumber": "BT09-018",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "ba5503a7-07f9-4118-a6c3-da6b6bd52900": {
+    "Name": "พี่โปจิ เจ้าลัทธิแห่หัว",
+    "CardNumber": "BT09-017",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "2a1adf28-2db5-453b-b982-e91ee84e040b": {
+    "Name": "พี่โปจิ เจ้าลัทธิแห่หัว",
+    "CardNumber": "BT09-017",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "78131670-c0a6-45f1-a872-2a4f55f729ef": {
+    "Name": "รัททาทุย นินจา",
+    "CardNumber": "BT09-016",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "9461a4cc-6db1-4353-a362-7aee09255058": {
+    "Name": "เพนกวินหิมะ เหลียง",
+    "CardNumber": "BT09-015",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "3ea4305b-2dfe-49f4-bd8d-e0189d694247": {
+    "Name": "เพนกวินหิมะ เหลียง",
+    "CardNumber": "BT09-015",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "a5c43274-9042-4e8e-9f82-6d6d49e504af": {
+    "Name": "นาย หน้าตาดี",
+    "CardNumber": "BT09-014",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "af40f8be-fced-48e4-af23-6a66df256144": {
+    "Name": "ฮอล หน้าตาดี",
+    "CardNumber": "BT09-013",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "f4c0bca6-8c1c-4ff7-be43-be2af325e164": {
+    "Name": "กุ่ย หน้าตาดี",
+    "CardNumber": "BT09-012",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "ba0500b1-5570-46a0-acdb-cb224bd685a6": {
+    "Name": "เจ้าหญิงรวงข้าว",
+    "CardNumber": "BT09-011",
+    "Rarity": "R",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "15df0281-3203-468c-bfeb-01e0e9620491": {
+    "Name": "เมย์ แวมไพร์โกธิค",
+    "CardNumber": "BT09-010",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "2ceff481-4f3b-46cb-95fe-eaf6c48fc3eb": {
+    "Name": "สไปรท์ ยอดสุนัข",
+    "CardNumber": "BT09-009",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "de4d7066-a2c3-4047-be51-3fb4f8674dba": {
+    "Name": "เพมมุ ยอดมนุษย์",
+    "CardNumber": "BT09-008",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "4e4c7906-47f2-4372-97ad-ef1410932df9": {
+    "Name": "เพมมุ ยอดมนุษย์",
+    "CardNumber": "BT09-008",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "afe82bd7-119c-4259-8834-9b8a604511b9": {
+    "Name": "โฮคุ โพลีกอน",
+    "CardNumber": "BT09-007",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "2a45bbc9-4eec-4328-9bac-52d9986c6e30": {
+    "Name": "โฮคุ โพลีกอน",
+    "CardNumber": "BT09-007",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "e0fb0782-e751-40ac-8ea4-6e2a09eb1d75": {
+    "Name": "ลูเซีย โพลีกอน",
+    "CardNumber": "BT09-006",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "cdbbd6d4-4d7a-4d2d-8a84-a7a1cf9f1ff3": {
+    "Name": "ลูเซีย โพลีกอน",
+    "CardNumber": "BT09-006",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "fea08563-3279-448a-b027-0f8eb8fe0778": {
+    "Name": "กัณหา นาคเกล็ดดำ",
+    "CardNumber": "BT09-005",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "9fbdc8a4-75fd-406c-b34c-76d08254cfa9": {
+    "Name": "กัณหา นาคเกล็ดดำ",
+    "CardNumber": "BT09-005",
+    "Rarity": "UR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "081515ff-5c0a-4313-8c6a-07256a6dd622": {
+    "Name": "DJ ปีโป้",
+    "CardNumber": "BT09-004",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "340d23ae-b075-4a0c-88fc-d48090e6723e": {
+    "Name": "นางฟ้าลูกซอง",
+    "CardNumber": "BT09-003",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "7e900ced-2768-4aab-80f1-8a878bbf7c3c": {
+    "Name": "เนอร์เกิ้ล เนียร์ สมาชิกลัทธิแห่หัว",
+    "CardNumber": "BT09-002",
+    "Rarity": "SEC",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "40080e8f-2f53-4c8b-b184-001a696297ba": {
+    "Name": "เนอร์เกิ้ล เนียร์ สมาชิกลัทธิแห่หัว",
+    "CardNumber": "BT09-002",
+    "Rarity": "SR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "5b6395f6-7177-417b-835a-ac67bd34f796": {
+    "Name": "พระอิศวร วีลแชร์",
+    "CardNumber": "BT09-001",
+    "Rarity": "CBR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "a296034e-ea2c-4182-9d6d-16f8c7efacd5": {
+    "Name": "พระอิศวร วีลแชร์",
+    "CardNumber": "BT09-001",
+    "Rarity": "PR",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "5c118d9a-82ee-4e02-b65c-2d8df670ef72": {
+    "Name": "พระอิศวร วีลแชร์",
+    "CardNumber": "BT09-001",
+    "Rarity": "C",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "e7d6c0e7-8f36-4bff-9079-83da90cb4b7f": {
+    "Name": "[กล่อง] มิตรภาพและสายฟ้า",
+    "CardNumber": "BT09",
+    "Rarity": "-",
+    "SetCode": "BT09",
+    "SetName": "[BT09] มิตรภาพและสายฟ้า"
+  },
+  "31f4ad20-c026-4125-b5c2-f05a85d42155": {
+    "Name": "ลิโป้ ขุนพลเทพสงคราม",
+    "CardNumber": "PRMO-096",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "02b13647-11c3-4194-a248-9633cb650e55": {
+    "Name": "ขวาน 7 สี",
+    "CardNumber": "PRMO-095",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "65702ed6-28c4-4b7d-a284-15b74805f113": {
+    "Name": "ชาโค่ล Overdose",
+    "CardNumber": "PRMO-094",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "0d36eb41-50b2-4272-9469-e5fac87e9195": {
+    "Name": "อีสานสลิงเกอร์ ปิ่น",
+    "CardNumber": "PRMO-093",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "64817642-f4a7-44e9-9d7e-b701b1f53233": {
+    "Name": "เตียวหุย ขุนพลจอมบุกแห่งจ๊กก๊ก",
+    "CardNumber": "PRMO-092",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "7b1dac66-36a3-46ff-b640-f3edb3e832a1": {
+    "Name": "[คาร์ตัน] Community Collection 2",
+    "CardNumber": "NULL",
+    "Rarity": "-",
+    "SetCode": "CC02",
+    "SetName": "[CC02] Community Collection 2"
+  },
+  "29fa1aad-05cb-4564-b5e1-2f5cca8c59d4": {
+    "Name": "ความเจริญ",
+    "CardNumber": "APFD-001",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
   "bebb139c-ee8e-4235-bebe-fe5bf6ebca56": {
     "Name": "อุบัติเหตุ!!!",
     "CardNumber": "PRMO-119",
@@ -5452,6 +6187,13 @@
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
+  "10ee4741-e708-4ff2-a7d6-14bc3b1a52ef": {
+    "Name": "ความเจริญ",
+    "CardNumber": "CC01-056",
+    "Rarity": "PR",
+    "SetCode": "CC01",
+    "SetName": "[CC01] Community Collection"
+  },
   "54548233-5233-491e-a0d4-7380095fce93": {
     "Name": "ตุ๊กตางูพันคอ",
     "CardNumber": "CC01-047",
@@ -5463,13 +6205,6 @@
     "Name": "ความเจริญ",
     "CardNumber": "CC01-056",
     "Rarity": "UR",
-    "SetCode": "CC01",
-    "SetName": "[CC01] Community Collection"
-  },
-  "10ee4741-e708-4ff2-a7d6-14bc3b1a52ef": {
-    "Name": "ความเจริญ",
-    "CardNumber": "CC01-056",
-    "Rarity": "PR",
     "SetCode": "CC01",
     "SetName": "[CC01] Community Collection"
   },
@@ -7902,13 +8637,6 @@
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
-  "4576a4fe-5bbd-4fd0-af9c-e30989157bcb": {
-    "Name": "พระพรหม",
-    "CardNumber": "BT02-008",
-    "Rarity": "UR",
-    "SetCode": "BT02",
-    "SetName": "[BT02] Attack on เพื่อนบ้าน"
-  },
   "5748c2bd-18f0-46de-bb32-5aa4c2823ca0": {
     "Name": "อ๊บ",
     "CardNumber": "BT02-007",
@@ -7927,6 +8655,13 @@
     "Name": "ตำรวจไซบอร์ค จ่าคอป",
     "CardNumber": "BT02-005",
     "Rarity": "R",
+    "SetCode": "BT02",
+    "SetName": "[BT02] Attack on เพื่อนบ้าน"
+  },
+  "4576a4fe-5bbd-4fd0-af9c-e30989157bcb": {
+    "Name": "พระพรหม",
+    "CardNumber": "BT02-008",
+    "Rarity": "UR",
     "SetCode": "BT02",
     "SetName": "[BT02] Attack on เพื่อนบ้าน"
   },
