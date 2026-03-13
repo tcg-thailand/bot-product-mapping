@@ -1,849 +1,1065 @@
 {
-  "FromVersion": "1.1.2",
-  "ToVersion": "1.2.0",
-  "AddedCount": 105,
+  "FromVersion": "1.2.0",
+  "ToVersion": "1.3.0",
+  "AddedCount": 132,
   "RemovedCount": 0,
   "ModifiedCount": 0,
   "Added": [
     {
-      "ProductId": "01a80d51-fd38-41ea-be1e-c499e236b2a9",
-      "Name": "ลาพิเน่ โพลีกอน",
-      "CardNumber": "BT09-030",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "004527c4-a35d-451c-a33c-b884428cea40",
+      "Name": "นายนิรยบาล อ้วน",
+      "CardNumber": "KD02-008",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
     },
     {
-      "ProductId": "02b13647-11c3-4194-a248-9633cb650e55",
-      "Name": "ขวาน 7 สี",
-      "CardNumber": "PRMO-095",
-      "Rarity": "SR",
-      "SetCode": "PRMO",
-      "SetName": "[PRMO] การ์ดโปรโม"
-    },
-    {
-      "ProductId": "067368f6-dd81-4c73-91c5-83b6498cef56",
-      "Name": "พี่ NUT",
-      "CardNumber": "BT09-048",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "081515ff-5c0a-4313-8c6a-07256a6dd622",
-      "Name": "DJ ปีโป้",
-      "CardNumber": "BT09-004",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "0d0809ab-e51c-4e6b-b7ea-9841c95b2a6c",
-      "Name": "สตางค์น้องชายแบงค์ ตัวเขียว",
-      "CardNumber": "BT09-029",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "0d36eb41-50b2-4272-9469-e5fac87e9195",
-      "Name": "อีสานสลิงเกอร์ ปิ่น",
-      "CardNumber": "PRMO-093",
+      "ProductId": "01b6da58-d237-4c25-9482-8dc1dcdc7e30",
+      "Name": "ดินแดนหิมะสีเทา",
+      "CardNumber": "PRMO-103",
       "Rarity": "C",
       "SetCode": "PRMO",
       "SetName": "[PRMO] การ์ดโปรโม"
     },
     {
-      "ProductId": "1197f671-60a6-4a6d-ae25-8a30d06dd558",
-      "Name": "ขอโทษสังคม",
-      "CardNumber": "BT09-049",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "045c91d4-64ae-458a-a039-938d232024b9",
+      "Name": "ราชันย์หุ่นนักรบผู้กล้า : คริติคอล ไมเกรน",
+      "CardNumber": "KD04-001",
+      "Rarity": "UR",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
     },
     {
-      "ProductId": "15df0281-3203-468c-bfeb-01e0e9620491",
-      "Name": "เมย์ แวมไพร์โกธิค",
-      "CardNumber": "BT09-010",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "08751ba8-d112-4f43-b090-150e62b20fa7",
+      "Name": "ไม่นะ อัปสร!",
+      "CardNumber": "KD01-022",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
     },
     {
-      "ProductId": "16f40c06-2d31-4d12-8a46-fec71056b1ed",
-      "Name": "คาถา เสกควายเข้าท้อง",
-      "CardNumber": "BT09-055",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "08c97b65-53b6-4c69-9225-ab3989a80ccd",
+      "Name": "เยี่ยวรดศาล",
+      "CardNumber": "KD03-013",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
     },
     {
-      "ProductId": "17a2187d-62db-43d3-ab6b-807a9f529b7d",
-      "Name": "Skill : Hypersense",
-      "CardNumber": "BT09-059",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "19e70b8d-dcfe-46fd-ad92-440aa28630ed",
-      "Name": "วิญญาณร้าย",
-      "CardNumber": "BT09-047",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "2244a436-63d5-4038-8f29-b717a00e2e23",
-      "Name": "ธอร์ บุตรแห่งโอดิน",
-      "CardNumber": "BT09-024",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "27710773-fe52-4ffe-9863-f5ea20644e47",
-      "Name": "ริน บันนี่เกิร์ล",
-      "CardNumber": "BT09-023",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "29fa1aad-05cb-4564-b5e1-2f5cca8c59d4",
+      "ProductId": "09450893-af9f-443b-b71d-b7ed80dca1d2",
       "Name": "ความเจริญ",
-      "CardNumber": "APFD-001",
-      "Rarity": "C",
-      "SetCode": "PRMO",
-      "SetName": "[PRMO] การ์ดโปรโม"
+      "CardNumber": "KD04-018",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
     },
     {
-      "ProductId": "2a1adf28-2db5-453b-b982-e91ee84e040b",
-      "Name": "พี่โปจิ เจ้าลัทธิแห่หัว",
-      "CardNumber": "BT09-017",
-      "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "0c4cba23-9ffc-4801-83bc-1d2041fbc13b",
+      "Name": "แอสการ์ดคือสถานที่ไม่ใช่ผู้คน",
+      "CardNumber": "KD01-020",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
     },
     {
-      "ProductId": "2a45bbc9-4eec-4328-9bac-52d9986c6e30",
-      "Name": "โฮคุ โพลีกอน",
-      "CardNumber": "BT09-007",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "2ceff481-4f3b-46cb-95fe-eaf6c48fc3eb",
-      "Name": "สไปรท์ ยอดสุนัข",
-      "CardNumber": "BT09-009",
-      "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "2d6188ab-0b50-47a5-b9c1-9603521b0b40",
-      "Name": "ท้าวเวสสุวรรณ",
-      "CardNumber": "BT09-041",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "2d6646a8-e8ed-4805-add6-3e9811f82c29",
-      "Name": "บลัดดี้แมรี่",
-      "CardNumber": "BT09-050",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "2ff4e788-3b67-47eb-8bdb-d62b621884e1",
-      "Name": "ลูเซเน่ โพลีกอน",
-      "CardNumber": "BT09-031",
-      "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "310b3ae3-a274-440e-a1e9-2291c216dd7b",
-      "Name": "แผนการตู้เย็นทับ",
-      "CardNumber": "BT09-054",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "31f4ad20-c026-4125-b5c2-f05a85d42155",
-      "Name": "ลิโป้ ขุนพลเทพสงคราม",
-      "CardNumber": "PRMO-096",
-      "Rarity": "SR",
-      "SetCode": "PRMO",
-      "SetName": "[PRMO] การ์ดโปรโม"
-    },
-    {
-      "ProductId": "324b28a7-540b-4a37-81b0-663ef2e27a2f",
-      "Name": "ตู้เสื้อผ้าของริกกี้",
-      "CardNumber": "BT09-074",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "325be090-3b9b-4832-9a70-786662b34961",
-      "Name": "แบงค์ ตัวแดง",
-      "CardNumber": "BT09-028",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "340d23ae-b075-4a0c-88fc-d48090e6723e",
-      "Name": "นางฟ้าลูกซอง",
-      "CardNumber": "BT09-003",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "3b01031f-42e5-4162-b353-18fc9bf1f24b",
-      "Name": "หอกศักดิ์สิทธิ์ เอ็ดดา",
-      "CardNumber": "BT09-066",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "3c9afbf6-3311-4778-b1b8-a9ffb0eda404",
-      "Name": "ขวัญตา เรื่องราว ราชาแห่งนาค",
-      "CardNumber": "BT09-043",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "3df0d585-ac4f-4f84-a3ee-04c25969ce70",
-      "Name": "ภูติผลไม้ มะเหมี่ยว",
-      "CardNumber": "BT09-037",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "3ea4305b-2dfe-49f4-bd8d-e0189d694247",
-      "Name": "เพนกวินหิมะ เหลียง",
-      "CardNumber": "BT09-015",
-      "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "40080e8f-2f53-4c8b-b184-001a696297ba",
-      "Name": "เนอร์เกิ้ล เนียร์ สมาชิกลัทธิแห่หัว",
-      "CardNumber": "BT09-002",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "49637829-ec9a-4f8c-b327-23b52cac97a9",
-      "Name": "หมาป่าเดียวดาย",
-      "CardNumber": "BT09-019",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "499ba6bc-7296-4b80-9707-d674e1d9a76e",
-      "Name": "จ่ายุทธ ทหารรักชาติ",
-      "CardNumber": "BT09-040",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "4a9c41e5-effe-4688-8960-9cd968cf22f2",
-      "Name": "ภูติผลไม้ มะม่วง",
-      "CardNumber": "BT09-036",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "4e4c7906-47f2-4372-97ad-ef1410932df9",
-      "Name": "เพมมุ ยอดมนุษย์",
-      "CardNumber": "BT09-008",
-      "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "50f60f02-f2ab-4542-90a2-f71502551297",
-      "Name": "ป่าพงไพร เผ่าพงศ์พันธุ์",
-      "CardNumber": "BT09-071",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "5910af7c-3a5b-4729-bf88-565e60ba2edd",
-      "Name": "Ah-ah, ah!",
-      "CardNumber": "BT09-058",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "5b6395f6-7177-417b-835a-ac67bd34f796",
-      "Name": "พระอิศวร วีลแชร์",
-      "CardNumber": "BT09-001",
-      "Rarity": "CBR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "5c118d9a-82ee-4e02-b65c-2d8df670ef72",
-      "Name": "พระอิศวร วีลแชร์",
-      "CardNumber": "BT09-001",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "5e85cada-4960-4347-a0a0-1f5fe97de364",
-      "Name": "โซน่า โพลีกอน",
-      "CardNumber": "BT09-022",
-      "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "623d81e3-0ff6-42b3-9e73-f240816cc5fc",
-      "Name": "ตัวอะไรสักอย่างที่คล้ายกระต่ายและกินเก่ง",
-      "CardNumber": "BT09-046",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "64817642-f4a7-44e9-9d7e-b701b1f53233",
-      "Name": "เตียวหุย ขุนพลจอมบุกแห่งจ๊กก๊ก",
-      "CardNumber": "PRMO-092",
-      "Rarity": "C",
-      "SetCode": "PRMO",
-      "SetName": "[PRMO] การ์ดโปรโม"
-    },
-    {
-      "ProductId": "6518e027-c208-4941-ac3b-d2ce830a731d",
-      "Name": "ขวัญตา เรื่องราว ครุฑเจ้าเวหา",
-      "CardNumber": "BT09-044",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "65702ed6-28c4-4b7d-a284-15b74805f113",
-      "Name": "ชาโค่ล Overdose",
-      "CardNumber": "PRMO-094",
-      "Rarity": "SR",
-      "SetCode": "PRMO",
-      "SetName": "[PRMO] การ์ดโปรโม"
-    },
-    {
-      "ProductId": "66db656e-276d-4a3d-ba9c-9bf85b7da5a2",
-      "Name": "ตัวอะไรสักอย่างที่เป็นมิตรและพูดมาก",
-      "CardNumber": "BT09-018",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "703be71c-962f-48bf-829a-4e9a3ec44e99",
-      "Name": "ผจญภัยด้วยกัน",
-      "CardNumber": "BT09-052",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "78131670-c0a6-45f1-a872-2a4f55f729ef",
-      "Name": "รัททาทุย นินจา",
-      "CardNumber": "BT09-016",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "7b1dac66-36a3-46ff-b640-f3edb3e832a1",
-      "Name": "[คาร์ตัน] Community Collection 2",
+      "ProductId": "11528314-a3c6-477c-b467-3b9105c6b3f7",
+      "Name": "[กล่อง] อวตารลงทัณฑ์",
       "CardNumber": "NULL",
       "Rarity": "-",
-      "SetCode": "CC02",
-      "SetName": "[CC02] Community Collection 2"
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
     },
     {
-      "ProductId": "7dab59a5-8580-4983-ab10-21cfce5b52e4",
-      "Name": "ธอร์ บุตรแห่งโอดิน",
-      "CardNumber": "BT09-024",
+      "ProductId": "16f2e56d-8d97-49aa-a262-ca6ca4fbeabd",
+      "Name": "พระนารายณ์",
+      "CardNumber": "KD01-006",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "181b3906-0034-4ec5-b854-840b7fc1da04",
+      "Name": "เลือกมันสำหรับพวก จน !!!",
+      "CardNumber": "KD01-015",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "1e780c12-ef2c-4390-838e-69f30685bc9c",
+      "Name": "น้ำซุปชาบู",
+      "CardNumber": "KD03-018",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "1ffd4568-797a-4d06-aa01-c3d0de2dff70",
+      "Name": "อาวุธหุ่นนักรบผู้กล้า \"ไบโพล่า ชิลด์\"",
+      "CardNumber": "KD04-014",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "2105be84-db6c-4749-94e4-3ef1e8c916ea",
+      "Name": "เลือกมันสำหรับพวก จน !!!",
+      "CardNumber": "PRMO-101",
+      "Rarity": "C",
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
+    },
+    {
+      "ProductId": "24435d9f-f67d-47a0-845a-9853b4b52631",
+      "Name": "ราชันย์หุ่นนักรบผู้กล้า : คริติคอล ไมเกรน",
+      "CardNumber": "KD04-001",
+      "Rarity": "SEC",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "258271d0-d234-4985-b4f7-67b02b416f5d",
+      "Name": "อุบัติเหตุ!!!",
+      "CardNumber": "KD01-017",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "28aec757-1766-4a3b-987a-f16b68948cfd",
+      "Name": "นายนิรยบาล แว่น",
+      "CardNumber": "KD02-007",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "2943b227-2c75-4a05-8da0-23525b5cac48",
+      "Name": "นายนิรยบาล กล้าม",
+      "CardNumber": "KD02-010",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "29e0e915-e077-4b74-9e71-3713d32c693d",
+      "Name": "สหายหุ่นผู้กล้า โฟเบีย",
+      "CardNumber": "KD04-008",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "2a1401e4-2246-4a3d-a5a4-66a4ff3681ef",
+      "Name": "นายนิรยบาล \"เต๋า\"",
+      "CardNumber": "KD02-009",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "2f30112d-cf89-41c1-984f-735989381b38",
+      "Name": "ปีศาจแห่งพันธเลือด เมฟิสโตเฟเลส",
+      "CardNumber": "KD02-001",
       "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
     },
     {
-      "ProductId": "7e900ced-2768-4aab-80f1-8a878bbf7c3c",
-      "Name": "เนอร์เกิ้ล เนียร์ สมาชิกลัทธิแห่หัว",
-      "CardNumber": "BT09-002",
+      "ProductId": "315e908b-7fad-4c3a-b8c1-c1bd974a0427",
+      "Name": "อากาศยานผู้กล้า : แอร์ซิด รีฟลักซ์",
+      "CardNumber": "KD04-006",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "3327937a-8525-4329-9286-962751973642",
+      "Name": "ประตูนรก",
+      "CardNumber": "KD02-020",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "336ca776-f3de-4b4b-9b80-8c34de137c68",
+      "Name": "โอตะตัวกะปอม",
+      "CardNumber": "KD03-009",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "33c5a7d3-f3f2-4578-ac9a-b5f2916c9a49",
+      "Name": "โดรนสอดแนมผู้กล้า : เก๊าท์",
+      "CardNumber": "KD04-007",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "345dbddd-e05d-44e4-9f6c-0de545c84404",
+      "Name": "เทวดาตัวเปิด",
+      "CardNumber": "KD01-011",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "353b6358-8bf4-4a0f-b6ee-9009fb7c7049",
+      "Name": "อาวุธหุ่นนักรบผู้กล้า \"อีโบล่า ซอร์ด\"",
+      "CardNumber": "KD04-013",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "357acf5b-1b40-4085-9016-09f6dbc247d5",
+      "Name": "มีมมิจัง ไอดอลหน้าใหม่",
+      "CardNumber": "KD03-003",
       "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
     },
     {
-      "ProductId": "8458da13-6ff2-4017-9da6-f98ae3a69496",
-      "Name": "กัล มนุษย์ดาว R18",
-      "CardNumber": "BT09-020",
+      "ProductId": "372d04df-3837-4f0a-8906-0d2fcaa37a60",
+      "Name": "โอตะคูลา",
+      "CardNumber": "KD03-002",
       "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
     },
     {
-      "ProductId": "89e36a4a-8967-4568-9bd5-bd92daf7c057",
-      "Name": "ภูติผลไม้ มะเฟือง",
-      "CardNumber": "BT09-038",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "38f2f0b0-309f-4bb1-9d55-2a38c842c72b",
+      "Name": "วูตาตู",
+      "CardNumber": "KD03-010",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
     },
     {
-      "ProductId": "8d4aa783-c43b-4b5a-abed-7b5b1df5ee48",
-      "Name": "ภูติผลไม้ มะขาม",
-      "CardNumber": "BT09-039",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "39e9b66e-8231-4baf-9bf4-a8930ed0fd13",
+      "Name": "แบมบูจัง ไอดอลสองขั้ว",
+      "CardNumber": "KD03-004",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
     },
     {
-      "ProductId": "92cb4d96-61f4-4628-9fe8-2db41118af2d",
-      "Name": "กระบองตำรวจ",
-      "CardNumber": "BT09-068",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "3de13ad1-3421-4075-ab5e-94ba1deff88e",
+      "Name": "หุ่นนักรบผู้กล้า : ไมเกรน",
+      "CardNumber": "KD04-003",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
     },
     {
-      "ProductId": "93f0f2d9-1fc7-430c-9eca-50174ea2c506",
-      "Name": "สกินวอคเกอร์",
-      "CardNumber": "BT09-033",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "9461a4cc-6db1-4353-a362-7aee09255058",
-      "Name": "เพนกวินหิมะ เหลียง",
-      "CardNumber": "BT09-015",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "9d812b63-7b7d-47a3-ab62-f8fb934c061a",
-      "Name": "นักท่องเรื่องราว ขวัญตา",
-      "CardNumber": "BT09-042",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "9fbdc8a4-75fd-406c-b34c-76d08254cfa9",
-      "Name": "กัณหา นาคเกล็ดดำ",
-      "CardNumber": "BT09-005",
+      "ProductId": "3dfddaff-a4fe-4e0c-ae0f-96e61fd5bbc6",
+      "Name": "มีมมิจัง ไอดอล No.1",
+      "CardNumber": "KD03-001",
       "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
     },
     {
-      "ProductId": "a296034e-ea2c-4182-9d6d-16f8c7efacd5",
-      "Name": "พระอิศวร วีลแชร์",
-      "CardNumber": "BT09-001",
-      "Rarity": "PR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "3e13654b-f169-4e53-a234-5d5d6f056e2c",
+      "Name": "ไม่นะ มีมมิจัง!",
+      "CardNumber": "KD02-023",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
     },
     {
-      "ProductId": "a37fba94-288e-4aac-9f04-983302bb8fad",
-      "Name": "เนฟิล ยักษ์ตัวสุดท้าย",
-      "CardNumber": "BT09-035",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "a3c6939a-4e2e-4173-99af-aafc8686b916",
-      "Name": "โพเดียมสมาคมผู้รู้ความจริง",
-      "CardNumber": "BT09-072",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "a47bb181-089d-4d75-974f-51b6a9d61060",
-      "Name": "Skill : Second Energy",
-      "CardNumber": "BT09-060",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "a5c43274-9042-4e8e-9f82-6d6d49e504af",
-      "Name": "นาย หน้าตาดี",
-      "CardNumber": "BT09-014",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "a912db32-9270-4fca-bcaf-d97ca1ef92d3",
-      "Name": "ไม้กวาดปีกปักษา",
-      "CardNumber": "BT09-051",
+      "ProductId": "3ebff8ce-7a71-49fb-b00f-13c13eca2099",
+      "Name": "ร่างอวตารพระนารายณ์ - เกษียรสมุทร",
+      "CardNumber": "KD01-003",
       "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
     },
     {
-      "ProductId": "a98c4e22-764d-40b0-891e-51ab428c73cf",
-      "Name": "ลงกาโพรเทคชั่น",
-      "CardNumber": "BT09-063",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "a9d6104f-a2ac-42ea-af5d-896038726181",
-      "Name": "สวนกล้วยหนีภาษี",
-      "CardNumber": "BT09-070",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "af40f8be-fced-48e4-af23-6a66df256144",
-      "Name": "ฮอล หน้าตาดี",
-      "CardNumber": "BT09-013",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "afe82bd7-119c-4259-8834-9b8a604511b9",
-      "Name": "โฮคุ โพลีกอน",
-      "CardNumber": "BT09-007",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "b575ec2b-5b1c-4845-ba28-b8624071b724",
-      "Name": "โลกิ เจ้าชายยักษ์น้ำแข็ง",
-      "CardNumber": "BT09-025",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "b7b643ec-3caf-4c4b-9c0a-0d1546dab87e",
-      "Name": "ขอให้ตีนไม่ติดพื้น",
-      "CardNumber": "BT09-053",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "b8809b81-be62-4eee-a938-0e226650f838",
-      "Name": "สำนักภฤคุ",
-      "CardNumber": "BT09-073",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "ba0500b1-5570-46a0-acdb-cb224bd685a6",
-      "Name": "เจ้าหญิงรวงข้าว",
-      "CardNumber": "BT09-011",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "ba5503a7-07f9-4118-a6c3-da6b6bd52900",
-      "Name": "พี่โปจิ เจ้าลัทธิแห่หัว",
-      "CardNumber": "BT09-017",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "bb8c63ff-94e8-4ad7-b722-ecb5c1317d97",
-      "Name": "ไม้กวาดปีกปักษา",
-      "CardNumber": "BT09-051",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "bce7be6d-ac37-4b19-8219-a3557758282e",
-      "Name": "อาวุธของเพมมุ ปืนพกรุ่น 19",
-      "CardNumber": "BT09-067",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "bfcc7824-d57b-4202-b196-e389ba1efaf4",
-      "Name": "ตัดเน็ต",
-      "CardNumber": "BT09-062",
+      "ProductId": "40de424a-f90e-4b7b-8f6d-28bc515847e4",
+      "Name": "สัญญาเลือด",
+      "CardNumber": "KD02-014",
       "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
     },
     {
-      "ProductId": "c0e808e7-9b83-47ea-b1f4-64d6ebfa4b53",
-      "Name": "ท้าวเวสสุวรรณ",
-      "CardNumber": "BT09-041",
-      "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "41d418f6-3364-4a2b-945f-6349f017b156",
+      "Name": "ขวานทอง",
+      "CardNumber": "KD01-016",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
     },
     {
-      "ProductId": "c481a59b-7796-4dc6-a80c-76ea54c3252e",
-      "Name": "ด่านตรวจเข้าเมือง",
-      "CardNumber": "BT09-069",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "42f4d984-4189-490c-98de-cb0390c71b1f",
+      "Name": "งานจับมือ",
+      "CardNumber": "KD03-015",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
     },
     {
-      "ProductId": "c4d2f7df-6b8b-4702-a3dc-55e1fc69a25f",
-      "Name": "ตัดเน็ต",
-      "CardNumber": "BT09-062",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "c4ec28c5-842a-49f3-bca1-7660439f7752",
-      "Name": "ด่านตรวจเข้าเมือง",
-      "CardNumber": "BT09-069",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "c5d9da1b-7324-4ee1-9564-4ec86df7de8c",
-      "Name": "มิสเตอร์โบโบ้",
-      "CardNumber": "BT09-027",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "c904cf8c-35c7-4c9f-be0c-b0e87294c84e",
-      "Name": "กัล มนุษย์ดาว R18",
-      "CardNumber": "BT09-020",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "caa1c99c-9c71-4c5f-8d55-92d6e9c9d23c",
-      "Name": "กระสอบ",
-      "CardNumber": "BT09-065",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "cdbbd6d4-4d7a-4d2d-8a84-a7a1cf9f1ff3",
-      "Name": "ลูเซีย โพลีกอน",
-      "CardNumber": "BT09-006",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "cf5916e7-5714-4ed1-87f3-17781af43eee",
-      "Name": "ห้างโรงเกลือ",
-      "CardNumber": "BT09-075",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "d0cdf648-e2cb-4e82-89a0-cb62405bd4e6",
-      "Name": "ค้อนโยเนียร์",
-      "CardNumber": "BT09-064",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "d1bf807e-149d-4442-bfb4-59e718aa54ab",
-      "Name": "จ่ายุทธ ทหารรักชาติ",
-      "CardNumber": "BT09-040",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "d3b46098-c4e0-469f-a8bf-454e24b380c5",
-      "Name": "โซน่า โพลีกอน",
-      "CardNumber": "BT09-022",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "d3c9f783-d31e-43ba-953d-f9d1d9e533f1",
-      "Name": "นักท่องเรื่องราว ขวัญตา",
-      "CardNumber": "BT09-042",
-      "Rarity": "UR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "d4e05721-0bba-4541-aaea-7188757ec8fd",
-      "Name": "คราเค่น ปลาหมึกปีศาจ",
-      "CardNumber": "BT09-021",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "d503d2b5-7613-4d2c-8b56-b4046d4e6736",
-      "Name": "ไต้ฝุ่น",
-      "CardNumber": "BT09-057",
-      "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "d72567ee-3489-4665-b335-bdd506860314",
-      "Name": "ลาพิเน่ โพลีกอน",
-      "CardNumber": "BT09-030",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "d85fd792-e560-4b79-98c1-be89f4eff73f",
-      "Name": "ลูเซเน่ โพลีกอน",
-      "CardNumber": "BT09-031",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "de4d7066-a2c3-4047-be51-3fb4f8674dba",
-      "Name": "เพมมุ ยอดมนุษย์",
-      "CardNumber": "BT09-008",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "df137665-2147-4d9c-a540-2504ae46e82d",
-      "Name": "แบงค์ ตัวแดง",
-      "CardNumber": "BT09-028",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "e0fb0782-e751-40ac-8ea4-6e2a09eb1d75",
-      "Name": "ลูเซีย โพลีกอน",
-      "CardNumber": "BT09-006",
-      "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "e29ca7d4-ccdd-494d-ab18-6f56e57db755",
-      "Name": "ปอนด์ สมาชิกลัทธิแห่หัว",
-      "CardNumber": "BT09-034",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "e339b920-fd3a-43c9-bf43-38820763ffab",
-      "Name": "วินดิโก้ ",
-      "CardNumber": "BT09-032",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "e565fdbc-6c84-4f0f-9e99-b799129ceab6",
-      "Name": "แมวดำ สมาชิกลัทธิแห่หัว",
-      "CardNumber": "BT09-026",
-      "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
-    },
-    {
-      "ProductId": "e7d6c0e7-8f36-4bff-9079-83da90cb4b7f",
-      "Name": "[กล่อง] มิตรภาพและสายฟ้า",
-      "CardNumber": "BT09",
+      "ProductId": "4b2c4168-73ec-4864-8856-7c05c97677f0",
+      "Name": "[ซอง] มิตรภาพและสายฟ้า",
+      "CardNumber": "NULL",
       "Rarity": "-",
       "SetCode": "BT09",
       "SetName": "[BT09] มิตรภาพและสายฟ้า"
     },
     {
-      "ProductId": "ef9abdc1-fa08-4e7c-a3df-4d53c6f6bab2",
-      "Name": "Skill : Full Drive",
-      "CardNumber": "BT09-056",
+      "ProductId": "4bb78b31-c5c6-4c7f-8fa9-09b8ba19b8a6",
+      "Name": "ไม่นะ ไมเกรน!",
+      "CardNumber": "KD04-021",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "4bd9b720-13bd-4c93-afc1-306113a09184",
+      "Name": "นายนิรยบาล ชาวนา",
+      "CardNumber": "KD02-013",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "4de365aa-daae-4af8-b877-2335889c6492",
+      "Name": "ไม่นะ ซาร่า!",
+      "CardNumber": "KD03-021",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "4eac8b8c-fdd4-400d-b083-cff23b7505f5",
+      "Name": "นายนิรยบาล พ่อจีจ้า",
+      "CardNumber": "KD02-006",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "50f13db6-c78c-459d-8c84-d7451e0a6408",
+      "Name": "นายนิรยบาล ปฎิรูป",
+      "CardNumber": "KD02-011",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "59640e84-2140-4cb2-81c8-80c7b1c514d3",
+      "Name": "ด็อกเตอร์ เพน",
+      "CardNumber": "KD04-002",
       "Rarity": "SR",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
     },
     {
-      "ProductId": "f152036c-3b83-4f6d-b717-61f2911f4aaa",
-      "Name": "พอง พอง",
-      "CardNumber": "BT09-045",
+      "ProductId": "5c998b83-b214-4700-b40a-743c25ef5101",
+      "Name": "ช่างแอร์ดวงซวย",
+      "CardNumber": "KD01-012",
+      "Rarity": "SEC",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "5d7faadc-a2ce-4c52-9ad2-b1bb68c0e8f2",
+      "Name": "ความเจริญ",
+      "CardNumber": "KD03-012",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "5efc4f90-0c5f-492c-8b0a-82dfdcf471ae",
+      "Name": "โอตะ รุ่นก่อตั้ง",
+      "CardNumber": "KD03-007",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "644bcee9-ba6d-434a-9300-02519c99e1b9",
+      "Name": "ปีศาจแห่งพันธเลือด เมฟิสโตเฟเลส",
+      "CardNumber": "KD02-001",
+      "Rarity": "SEC",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "6800d064-ebe4-442b-b6cd-8e3d2d572b26",
+      "Name": "ไม่นะ นนทก!",
+      "CardNumber": "KD01-023",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "6aa4e2f5-db87-44d3-89c1-06ab7b1a51d4",
+      "Name": "พระนารายณ์ เทพผดุงธรรม",
+      "CardNumber": "KD01-001",
+      "Rarity": "UR",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "70c38941-e6fd-4745-83c7-05b38ee7e5ca",
+      "Name": "ชายจากอนาคต",
+      "CardNumber": "KD04-019",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "7468dfeb-bc53-4497-afa9-26d432dfd9f4",
+      "Name": "โอตะคูลา",
+      "CardNumber": "KD03-002",
+      "Rarity": "SR",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "75479bbb-5d92-4e9a-9422-08380755ce1d",
+      "Name": "ช่างแอร์ดวงซวย",
+      "CardNumber": "KD01-012",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "78882476-0a76-4077-99cc-64470e92dc55",
+      "Name": "ลูกคนรวย",
+      "CardNumber": "KD04-010",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "7ac05656-97aa-4496-bd1f-4e399ff0c704",
+      "Name": "ค่ายบางระจัน",
+      "CardNumber": "PRMO-104",
+      "Rarity": "SR",
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
+    },
+    {
+      "ProductId": "7cb584cf-1a26-49dc-a330-6890f99c749d",
+      "Name": "ความเจริญ",
+      "CardNumber": "KD01-013",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "7f2d6102-2899-46cb-bbf5-f72dc22d1c0a",
+      "Name": "งานจับมือ",
+      "CardNumber": "KD03-015",
+      "Rarity": "SEC",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "7fcdb74d-9a4e-4b5f-b0fc-cd2b5c643022",
+      "Name": "ร่างอวตารพระนารายณ์ - เกษียรสมุทร",
+      "CardNumber": "KD01-003",
+      "Rarity": "SEC",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "7fd6ba43-15d0-4391-b0b2-8538bd21fa76",
+      "Name": "ไปเลยมอนตี้",
+      "CardNumber": "KD01-018",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "813c9592-c40b-44e2-8ea9-6a3120828ac4",
+      "Name": "มีมมิจัง ไอดอล No.1",
+      "CardNumber": "KD03-001",
+      "Rarity": "SEC",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "87f1b0e0-7308-4d7f-94b0-c72180fb6df2",
+      "Name": "อาวุธหุ่นนักรบผู้กล้า \"GHD โคลค\"",
+      "CardNumber": "KD04-015",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "8c84b273-a531-470b-bec1-ffcf46691d04",
+      "Name": "เวทีแห่งความฝัน",
+      "CardNumber": "KD03-020",
+      "Rarity": "SEC",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "8cad945c-e024-4195-9aa4-de8c6c623023",
+      "Name": "อุบัติเหตุ!!!",
+      "CardNumber": "KD03-016",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "8d205924-84fe-4c5a-a699-05fe8221b6c1",
+      "Name": "โทมาโทจัง ไอดอลเด็กน้อย",
+      "CardNumber": "KD03-005",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "8d528868-ffd0-495c-a2f8-3cf084287b64",
+      "Name": "หุ่นนักรบผู้กล้า : โปรโตไมเกรน",
+      "CardNumber": "KD04-004",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "8e35041b-77d0-440d-a7b8-25a7a8f33a6c",
+      "Name": "สุดยอดท่าไม้ตายผู้กล้า THE END",
+      "CardNumber": "KD04-012",
+      "Rarity": "SR",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "8e645b43-cf05-44a3-9207-68f51fea015f",
+      "Name": "เลือกมันสำหรับพวก จน !!!",
+      "CardNumber": "KD02-016",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "8ec511cc-a306-4eb5-b83b-920286db74b4",
+      "Name": "พี่โด 2.0",
+      "CardNumber": "KD04-011",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "902bec1e-4417-4782-9ec2-7b725f52484c",
+      "Name": "ชายจากอนาคต",
+      "CardNumber": "KD02-018",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "958d70ed-85d9-4c23-a87f-6b909cdbcc81",
+      "Name": "ซุนเซ็ก ขุนพลไฟแรงแห่งง่อก๊ก",
+      "CardNumber": "PRMO-102",
       "Rarity": "C",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
     },
     {
-      "ProductId": "f4c0bca6-8c1c-4ff7-be43-be2af325e164",
-      "Name": "กุ่ย หน้าตาดี",
-      "CardNumber": "BT09-012",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "9787c008-045d-4074-bc8d-e000e14262db",
+      "Name": "หนุมาน",
+      "CardNumber": "KD01-010",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
     },
     {
-      "ProductId": "f702b7e5-0f20-45a7-85f0-b01a245cc827",
-      "Name": "ไต้ฝุ่น",
-      "CardNumber": "BT09-057",
+      "ProductId": "9b98b550-53de-4888-b4e1-b58de0bc9ee9",
+      "Name": "ความกล้าหาญ",
+      "CardNumber": "KD01-014",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "9c4f345f-2963-4f7a-a2f1-d180783cd685",
+      "Name": "ไม่นะ พญายม!",
+      "CardNumber": "KD02-025",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "9c88cdcc-04f5-40b4-a911-8d796067d1a4",
+      "Name": "ไม่นะ มีมมิจัง!",
+      "CardNumber": "KD03-023",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "9cbd89e9-b6f7-46e9-94eb-acd87f6849d8",
+      "Name": "พระอินทร์ เทพขยัน",
+      "CardNumber": "KD01-007",
       "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
     },
     {
-      "ProductId": "f8f6bf5e-7fef-46dd-b07a-59484bc3c68e",
-      "Name": "ทะลุบ้านทะลุโกศ",
-      "CardNumber": "BT09-061",
-      "Rarity": "R",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "ProductId": "9dc95ceb-704c-4810-acbb-51ff5893fe3a",
+      "Name": "พระลักษมี",
+      "CardNumber": "KD01-004",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
     },
     {
-      "ProductId": "fea08563-3279-448a-b027-0f8eb8fe0778",
-      "Name": "กัณหา นาคเกล็ดดำ",
-      "CardNumber": "BT09-005",
+      "ProductId": "9e4e27f7-b993-4cc4-b1c8-aa084434ed1a",
+      "Name": "ร้อนมากก็เปิดหน้าต่างสิว๊ากกกก",
+      "CardNumber": "KD02-015",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "a4274587-0c27-4ed7-86b5-bb4123b6e0ef",
+      "Name": "ไม่นะ โดม!",
+      "CardNumber": "KD01-021",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "a6acd897-07a0-43b8-bfb5-59a26409cec7",
+      "Name": "ยานเกราะผู้กล้า : ไดบาเรีย",
+      "CardNumber": "KD04-005",
       "Rarity": "SEC",
-      "SetCode": "BT09",
-      "SetName": "[BT09] มิตรภาพและสายฟ้า"
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "a734ea3a-d3c4-443a-8459-7fdd6ec65af4",
+      "Name": "ของขวัญจากโอตะ",
+      "CardNumber": "KD03-019",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "aafb11d7-ae1c-4357-9647-655056a9b4f2",
+      "Name": "อย่าให้มีครั้งที่ 2",
+      "CardNumber": "PRMO-100",
+      "Rarity": "C",
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
+    },
+    {
+      "ProductId": "ab0a3484-ec5d-409c-a04e-aa2284735489",
+      "Name": "โอตะปุส",
+      "CardNumber": "KD03-008",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "ac1b644e-05f1-4afe-896e-3a3a832995b9",
+      "Name": "[กล่อง] ชะตากรแห่งจุดจบ",
+      "CardNumber": "NULL",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "ac8803e5-cd0e-44d3-a825-d544071983ac",
+      "Name": "นายนิรยบาล พ่อจีจ้า",
+      "CardNumber": "KD02-006",
+      "Rarity": "SEC",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "acac3e48-a9d8-4353-a70d-46fa50539382",
+      "Name": "ประตูนรก",
+      "CardNumber": "KD02-020",
+      "Rarity": "SEC",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "af8f8bd6-f7a1-4a04-851f-1430cbf80b97",
+      "Name": "ไม่นะ อู๊ด!",
+      "CardNumber": "KD03-022",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "b040d49a-f111-49e1-b716-be89dca9c5fc",
+      "Name": "ไม่นะ อู๊ด!",
+      "CardNumber": "KD02-022",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "b2812d08-6497-4752-b25b-a8a491852fec",
+      "Name": "ตู้โชว์ไอดอล",
+      "CardNumber": "KD03-014",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "b3e6a5c0-fc54-4a28-a471-41487e35bb9f",
+      "Name": "แมลงปอแจ็ค",
+      "CardNumber": "KD03-011",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "b5fdddba-40eb-48be-8d88-6ae935d1d6b5",
+      "Name": "เขาไกรลาส",
+      "CardNumber": "KD01-019",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "bc2f5f70-1d5e-44d4-af8c-6266b64a4eba",
+      "Name": "พระพรหม",
+      "CardNumber": "KD01-008",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "bdd27e0a-3528-4f08-a85a-06621b389dae",
+      "Name": "เมตตาระยะยาว",
+      "CardNumber": "PRMO-081",
+      "Rarity": "SR",
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
+    },
+    {
+      "ProductId": "bfc4a91d-5eb4-40f8-85f0-91f6f587ac2b",
+      "Name": "หอกแหลมแทงทุกวัน",
+      "CardNumber": "KD02-019",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "c010ead4-5c4c-46dd-8a89-a8b0ec7c5637",
+      "Name": "พระอินทร์ เทพขยัน",
+      "CardNumber": "KD01-007",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "c393c7c8-e13a-425c-9a9a-b928588393f1",
+      "Name": "ลิลิธ ปีศาจสาวตนแรก",
+      "CardNumber": "KD02-002",
+      "Rarity": "SR",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "c42ea6dc-7709-4d6c-99c0-ab7aa61939c1",
+      "Name": "มีมมิจัง ไอดอลหน้าใหม่",
+      "CardNumber": "KD03-003",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "c6bc5dc9-d304-458d-a679-c17e18918cba",
+      "Name": "นายนิรยบาล ตัวใหญ่พิเศษ",
+      "CardNumber": "KD02-012",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "c71b442b-5e88-4f34-8110-b5f2ff347a52",
+      "Name": "ไม่นะ มะนาว!",
+      "CardNumber": "KD04-024",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "c75a4491-17f0-4dd6-8e1b-deb95f840836",
+      "Name": "เชาว์ปัญญาลิง - ชิงปัญญาเรา",
+      "CardNumber": "KD03-017",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "cb636f99-f148-4ff1-bb11-9259bdd0d9e4",
+      "Name": "ไม่นะ ลูก!",
+      "CardNumber": "KD02-021",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "cd3c3fb0-ba47-4014-a7e8-d1aad299b723",
+      "Name": "[กล่อง] พันธสัญญาโลหิต",
+      "CardNumber": "NULL",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "ce48a90e-cf70-47d3-b22d-72eaa6eb6e30",
+      "Name": "นางอัปสร",
+      "CardNumber": "KD01-009",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "d19aa8e6-f312-4798-99d7-9919a83ef85c",
+      "Name": "เวทีแห่งความฝัน",
+      "CardNumber": "KD03-020",
+      "Rarity": "SR",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "d1c3a6a5-3b69-4849-b3cc-09c977d4bccf",
+      "Name": "ร่างอวตารพระนารายณ์ - นรสิง",
+      "CardNumber": "KD01-002",
+      "Rarity": "SEC",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "d34179de-179b-4f34-91df-82f31f8a0cb7",
+      "Name": "ไม่นะ มีมมิจัง!",
+      "CardNumber": "KD04-025",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "d6715f8d-07aa-46be-9bdc-8a30c640641a",
+      "Name": "คนรวย",
+      "CardNumber": "KD04-009",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "d77d1f98-7015-4f2c-a875-dbe100621726",
+      "Name": "สัญญาเลือด",
+      "CardNumber": "KD02-014",
+      "Rarity": "SEC",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "d7d43b13-d4c0-4aae-8469-c45942de0837",
+      "Name": "ร่างอวตารพระนารายณ์ - นรสิง",
+      "CardNumber": "KD01-002",
+      "Rarity": "SR",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "d8fbe622-5ebf-4d2b-a67b-7adeae71a637",
+      "Name": "สุดยอดท่าไม้ตายผู้กล้า THE END",
+      "CardNumber": "KD04-012",
+      "Rarity": "SEC",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "db653817-2e00-4289-beaf-abbb8ea9728b",
+      "Name": "ไม่นะ พระอินทร์!",
+      "CardNumber": "KD01-024",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "dc6abe2c-f306-498a-8753-11f1ebda9f71",
+      "Name": "มยุราซัง ไอดอลยุค 80",
+      "CardNumber": "KD03-006",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "dffd0a88-b937-42b7-ba95-c6c82feb4416",
+      "Name": "พระนารายณ์ เทพผดุงธรรม",
+      "CardNumber": "KD01-001",
+      "Rarity": "SEC",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "e2d2fa24-5700-4520-9aa5-def651e9ff7e",
+      "Name": "Micro Plaza สะพานพลาสติก",
+      "CardNumber": "KD04-017",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "e3a46dee-1e6d-4674-af29-8a19ffa5938e",
+      "Name": "ด็อกเตอร์ เพน",
+      "CardNumber": "KD04-002",
+      "Rarity": "SEC",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "e720bbaf-18ba-4bfa-bdb4-be08bb0223e8",
+      "Name": "[ซอง] Odenya x Battle of Talingchan",
+      "CardNumber": "NULL",
+      "Rarity": "-",
+      "SetCode": "ODY1",
+      "SetName": "[ODY1] Odenya x Battle of Talingchan"
+    },
+    {
+      "ProductId": "e735bb4e-a550-42cf-bcbe-3903edc4ab7d",
+      "Name": "ยานเกราะผู้กล้า : ไดบาเรีย",
+      "CardNumber": "KD04-005",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "e81df10d-9530-42e6-b8f7-af46801fea6b",
+      "Name": "นายนิรยบาล หมอ",
+      "CardNumber": "KD02-005",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "e8d71c58-9087-4183-b9b6-91c8b0c92e22",
+      "Name": "พระนารายณ์ เทพผู้พิทักษ์",
+      "CardNumber": "KD01-005",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "ea95c98e-1933-4b71-bea1-c0e60819c4a5",
+      "Name": "ลิลิธ ปีศาจสาวตนแรก",
+      "CardNumber": "KD02-002",
+      "Rarity": "SEC",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "ec54a8cb-3976-4901-97b7-d6156545d4d0",
+      "Name": "[กล่อง] มุ่งสู่ฝันเป็นที่ 1",
+      "CardNumber": "NULL",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "ec821843-3ab0-4ced-a5fb-d7e4098d116c",
+      "Name": "คว้าปืนมายิงหมี",
+      "CardNumber": "KD04-020",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "ecabdcb9-53ee-492e-939a-287551f7a993",
+      "Name": "ไม่นะ โดม!",
+      "CardNumber": "KD03-024",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "ed6f4a4d-f9d2-45a8-b2ab-6ccf43e21dab",
+      "Name": "ไม่นะ ไอ้ดำ!",
+      "CardNumber": "KD03-025",
+      "Rarity": "-",
+      "SetCode": "KD03",
+      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+    },
+    {
+      "ProductId": "ef45fe68-ae0e-48d0-a9bf-64f01523cc74",
+      "Name": "สุวรรณ",
+      "CardNumber": "KD02-004",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "ef9b4453-3b9f-4074-853c-fe4a7e9550d4",
+      "Name": "พญายม",
+      "CardNumber": "KD02-003",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "f324687c-a35a-4ee2-9f0a-abdbc0d863b4",
+      "Name": "ฐานหุ่นนักรบผู้กล้า ซีทันยาน",
+      "CardNumber": "KD04-016",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "f339e5cc-fe09-4ed0-8e78-337033f220e4",
+      "Name": "ไม่นะ อิศวร!",
+      "CardNumber": "KD01-025",
+      "Rarity": "-",
+      "SetCode": "KD01",
+      "SetName": "[KD01] อวตารลงทัณฑ์"
+    },
+    {
+      "ProductId": "f4bbee2a-1694-4b9c-9889-07591ffff8c8",
+      "Name": "ไม่นะ เจี๊ยบ!",
+      "CardNumber": "KD04-022",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "f8fd164f-25b4-4c25-a1ce-7ea3b06019db",
+      "Name": "อย่าให้มีครั้งที่ 2",
+      "CardNumber": "KD02-017",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
+    },
+    {
+      "ProductId": "faa8ac45-9b67-4b9c-b9f1-28cb3db11bb8",
+      "Name": "ไม่นะ แดงเดือด!",
+      "CardNumber": "KD04-023",
+      "Rarity": "-",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "fe01da0b-716e-4a95-9fc0-086c42c71aca",
+      "Name": "อาวุธหุ่นนักรบผู้กล้า \"อีโบล่า ซอร์ด\"",
+      "CardNumber": "KD04-013",
+      "Rarity": "SEC",
+      "SetCode": "KD04",
+      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+    },
+    {
+      "ProductId": "ff393a49-8989-476f-908c-7ba4e5a8850c",
+      "Name": "ไม่นะ โดม!",
+      "CardNumber": "KD02-024",
+      "Rarity": "-",
+      "SetCode": "KD02",
+      "SetName": "[KD02] พันธสัญญาโลหิต"
     }
   ],
   "Removed": [],
