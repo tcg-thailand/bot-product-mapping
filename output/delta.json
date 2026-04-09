@@ -1,242 +1,82 @@
 {
-  "FromVersion": "1.3.0",
-  "ToVersion": "1.4.0",
-  "AddedCount": 12,
+  "FromVersion": "1.4.0",
+  "ToVersion": "1.4.1",
+  "AddedCount": 7,
   "RemovedCount": 0,
-  "ModifiedCount": 17,
+  "ModifiedCount": 2,
   "Added": [
     {
-      "ProductId": "35344faf-ce69-4845-9ff1-2a59c5eaddd0",
-      "Name": "สุดยอดท่าไม้ตายผู้กล้า THE END",
-      "CardNumber": "KD04-012",
-      "Rarity": "PR",
-      "SetCode": "KD04",
-      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+      "ProductId": "051d44d4-b415-47c3-b9dd-a079c2873a54",
+      "Name": "อัศวินแบงค์",
+      "CardNumber": "PRMO-114",
+      "Rarity": "SR",
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
     },
     {
-      "ProductId": "608bd3a8-b219-48e9-9d4b-322b9f12fbc1",
-      "Name": "สุดยอดท่าไม้ตายผู้กล้า THE END",
-      "CardNumber": "KD04-012",
-      "Rarity": "CBR",
-      "SetCode": "KD04",
-      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
+      "ProductId": "42fc66e9-fc5a-48f5-84a8-186d6479403b",
+      "Name": "[กล่อง] VS 18 หัวเมือง",
+      "CardNumber": "NULL",
+      "Rarity": "-",
+      "SetCode": "SD07",
+      "SetName": "[SD07] VS 18 หัวเมือง"
     },
     {
-      "ProductId": "65311720-20f5-4227-b2da-28732aa14ae3",
-      "Name": "ปีศาจแห่งพันธเลือด เมฟิสโตเฟเลส",
-      "CardNumber": "KD02-001",
-      "Rarity": "CBR",
-      "SetCode": "KD02",
-      "SetName": "[KD02] พันธสัญญาโลหิต"
+      "ProductId": "567a68e9-2be1-4ad2-ba55-e89e61eaeb35",
+      "Name": "กุมภกรรณ ทดน้ำ",
+      "CardNumber": "PRMO-115",
+      "Rarity": "SR",
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
     },
     {
-      "ProductId": "6745d980-f660-43fe-b22d-f40b217d7b16",
-      "Name": "พระนารายณ์ เทพผดุงธรรม",
-      "CardNumber": "KD01-001",
-      "Rarity": "PR",
-      "SetCode": "KD01",
-      "SetName": "[KD01] อวตารลงทัณฑ์"
+      "ProductId": "65e2675f-4a90-46fb-acb3-1c93e6a46550",
+      "Name": "[กล่อง] ๖ ประจัญบาน",
+      "CardNumber": "NULL",
+      "Rarity": "-",
+      "SetCode": "SD06",
+      "SetName": "[SD06] ๖ ประจัญบาน"
     },
     {
-      "ProductId": "73d9b60c-5361-4ef6-a055-56490560eae3",
-      "Name": "พระนารายณ์ เทพผดุงธรรม",
-      "CardNumber": "KD01-001",
-      "Rarity": "CBR",
-      "SetCode": "KD01",
-      "SetName": "[KD01] อวตารลงทัณฑ์"
-    },
-    {
-      "ProductId": "bad96941-cf5b-45c6-bcb8-eab054b434e6",
-      "Name": "ปีศาจแห่งพันธเลือด เมฟิสโตเฟเลส",
-      "CardNumber": "KD02-001",
-      "Rarity": "PR",
-      "SetCode": "KD02",
-      "SetName": "[KD02] พันธสัญญาโลหิต"
-    },
-    {
-      "ProductId": "bdb2452d-1ca2-45a4-8523-1749abb9ddd1",
-      "Name": "เบียดเบียนผู้อื่น",
-      "CardNumber": "KD00-00B",
+      "ProductId": "6636029b-6f66-4aeb-b682-8faa27f96b24",
+      "Name": "ทองเหม็น ขวานคลั่ง",
+      "CardNumber": "PRMO-105",
       "Rarity": "C",
-      "SetCode": "KD00",
-      "SetName": "[KD00] อัดมั่ว"
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
     },
     {
-      "ProductId": "c15573b1-f37b-4c08-a8dc-611534c524b7",
-      "Name": "โอน้อยออกแห่งโชคชะตา",
-      "CardNumber": "KD00-00C",
+      "ProductId": "71263779-7d5f-4efb-ac74-746013221681",
+      "Name": "Skill : Full Drive",
+      "CardNumber": "PRMO-107",
+      "Rarity": "SR",
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
+    },
+    {
+      "ProductId": "9bde0fc8-79ac-427f-afef-72d95258af12",
+      "Name": "ตำรวจไฟแรง เอนโว่",
+      "CardNumber": "PRMO-106",
       "Rarity": "C",
-      "SetCode": "KD00",
-      "SetName": "[KD00] อัดมั่ว"
-    },
-    {
-      "ProductId": "d53d24c7-2946-4b4d-b350-83886fdf5a05",
-      "Name": "อะไรวะ !",
-      "CardNumber": "KD00-00A",
-      "Rarity": "C",
-      "SetCode": "KD00",
-      "SetName": "[KD00] อัดมั่ว"
-    },
-    {
-      "ProductId": "e01f0030-5c89-4419-b2a1-4aef1c22512d",
-      "Name": "ขอมือเธอหน่อย~",
-      "CardNumber": "KD00-00D",
-      "Rarity": "C",
-      "SetCode": "KD00",
-      "SetName": "[KD00] อัดมั่ว"
-    },
-    {
-      "ProductId": "e9f2b83f-ed69-4caa-8fc7-af53ee18faff",
-      "Name": "มีมมิจัง ไอดอล No.1",
-      "CardNumber": "KD03-001",
-      "Rarity": "PR",
-      "SetCode": "KD03",
-      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
-    },
-    {
-      "ProductId": "f7624bc4-a277-42d3-b6ad-99df77ffa0f3",
-      "Name": "มีมมิจัง ไอดอล No.1",
-      "CardNumber": "KD03-001",
-      "Rarity": "CBR",
-      "SetCode": "KD03",
-      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
+      "SetCode": "PRMO",
+      "SetName": "[PRMO] การ์ดโปรโม"
     }
   ],
   "Removed": [],
   "Modified": [
     {
-      "ProductId": "ff393a49-8989-476f-908c-7ba4e5a8850c",
-      "Name": "ไม่นะ โดม!",
-      "CardNumber": "KD02-022",
-      "Rarity": "-",
-      "SetCode": "KD02",
-      "SetName": "[KD02] พันธสัญญาโลหิต"
-    },
-    {
-      "ProductId": "ed6f4a4d-f9d2-45a8-b2ab-6ccf43e21dab",
-      "Name": "ไม่นะ ไอ้ดำ!",
-      "CardNumber": "KD03-023",
-      "Rarity": "-",
-      "SetCode": "KD03",
-      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
-    },
-    {
-      "ProductId": "b040d49a-f111-49e1-b716-be89dca9c5fc",
-      "Name": "ไม่นะ อู๊ด!",
-      "CardNumber": "KD02-024",
-      "Rarity": "-",
-      "SetCode": "KD02",
-      "SetName": "[KD02] พันธสัญญาโลหิต"
-    },
-    {
-      "ProductId": "9c4f345f-2963-4f7a-a2f1-d180783cd685",
-      "Name": "ไม่นะ พญายม!",
-      "CardNumber": "KD02-021",
-      "Rarity": "-",
-      "SetCode": "KD02",
-      "SetName": "[KD02] พันธสัญญาโลหิต"
-    },
-    {
-      "ProductId": "c71b442b-5e88-4f34-8110-b5f2ff347a52",
-      "Name": "ไม่นะ มะนาว!",
-      "CardNumber": "KD04-023",
-      "Rarity": "-",
+      "ProductId": "045c91d4-64ae-458a-a039-938d232024b9",
+      "Name": "ราชันย์หุ่นนักรบผู้กล้า : คริติคอล ไมเกรน",
+      "CardNumber": "KD04-001",
+      "Rarity": "SR",
       "SetCode": "KD04",
       "SetName": "[KD04] ชะตากรแห่งจุดจบ"
     },
     {
-      "ProductId": "db653817-2e00-4289-beaf-abbb8ea9728b",
-      "Name": "ไม่นะ พระอินทร์!",
-      "CardNumber": "KD01-022",
-      "Rarity": "-",
-      "SetCode": "KD01",
-      "SetName": "[KD01] อวตารลงทัณฑ์"
-    },
-    {
-      "ProductId": "9c88cdcc-04f5-40b4-a911-8d796067d1a4",
-      "Name": "ไม่นะ มีมมิจัง!",
-      "CardNumber": "KD03-021",
-      "Rarity": "-",
-      "SetCode": "KD03",
-      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
-    },
-    {
-      "ProductId": "cb636f99-f148-4ff1-bb11-9259bdd0d9e4",
-      "Name": "ไม่นะ ลูก!",
-      "CardNumber": "KD02-025",
-      "Rarity": "-",
-      "SetCode": "KD02",
-      "SetName": "[KD02] พันธสัญญาโลหิต"
-    },
-    {
-      "ProductId": "f339e5cc-fe09-4ed0-8e78-337033f220e4",
-      "Name": "ไม่นะ อิศวร!",
-      "CardNumber": "KD01-021",
-      "Rarity": "-",
-      "SetCode": "KD01",
-      "SetName": "[KD01] อวตารลงทัณฑ์"
-    },
-    {
-      "ProductId": "a4274587-0c27-4ed7-86b5-bb4123b6e0ef",
-      "Name": "ไม่นะ โดม!",
-      "CardNumber": "KD01-025",
-      "Rarity": "-",
-      "SetCode": "KD01",
-      "SetName": "[KD01] อวตารลงทัณฑ์"
-    },
-    {
-      "ProductId": "4bb78b31-c5c6-4c7f-8fa9-09b8ba19b8a6",
-      "Name": "ไม่นะ ไมเกรน!",
-      "CardNumber": "KD04-022",
-      "Rarity": "-",
-      "SetCode": "KD04",
-      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
-    },
-    {
-      "ProductId": "d34179de-179b-4f34-91df-82f31f8a0cb7",
-      "Name": "ไม่นะ มีมมิจัง!",
-      "CardNumber": "KD04-021",
-      "Rarity": "-",
-      "SetCode": "KD04",
-      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
-    },
-    {
-      "ProductId": "faa8ac45-9b67-4b9c-b9f1-28cb3db11bb8",
-      "Name": "ไม่นะ แดงเดือด!",
-      "CardNumber": "KD04-024",
-      "Rarity": "-",
-      "SetCode": "KD04",
-      "SetName": "[KD04] ชะตากรแห่งจุดจบ"
-    },
-    {
-      "ProductId": "08751ba8-d112-4f43-b090-150e62b20fa7",
-      "Name": "ไม่นะ อัปสร!",
-      "CardNumber": "KD01-024",
-      "Rarity": "-",
-      "SetCode": "KD01",
-      "SetName": "[KD01] อวตารลงทัณฑ์"
-    },
-    {
-      "ProductId": "4de365aa-daae-4af8-b877-2335889c6492",
-      "Name": "ไม่นะ ซาร่า!",
-      "CardNumber": "KD03-024",
-      "Rarity": "-",
-      "SetCode": "KD03",
-      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
-    },
-    {
-      "ProductId": "ecabdcb9-53ee-492e-939a-287551f7a993",
-      "Name": "ไม่นะ โดม!",
-      "CardNumber": "KD03-025",
-      "Rarity": "-",
-      "SetCode": "KD03",
-      "SetName": "[KD03] มุ่งสู่ฝันเป็นที่ 1"
-    },
-    {
-      "ProductId": "f4bbee2a-1694-4b9c-9889-07591ffff8c8",
-      "Name": "ไม่นะ เจี๊ยบ!",
-      "CardNumber": "KD04-025",
-      "Rarity": "-",
+      "ProductId": "8e35041b-77d0-440d-a7b8-25a7a8f33a6c",
+      "Name": "สุดยอดท่าไม้ตายผู้กล้า THE END",
+      "CardNumber": "KD04-012",
+      "Rarity": "UR",
       "SetCode": "KD04",
       "SetName": "[KD04] ชะตากรแห่งจุดจบ"
     }

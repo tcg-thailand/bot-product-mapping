@@ -1,4 +1,53 @@
 {
+  "567a68e9-2be1-4ad2-ba55-e89e61eaeb35": {
+    "Name": "กุมภกรรณ ทดน้ำ",
+    "CardNumber": "PRMO-115",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "051d44d4-b415-47c3-b9dd-a079c2873a54": {
+    "Name": "อัศวินแบงค์",
+    "CardNumber": "PRMO-114",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "71263779-7d5f-4efb-ac74-746013221681": {
+    "Name": "Skill : Full Drive",
+    "CardNumber": "PRMO-107",
+    "Rarity": "SR",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "9bde0fc8-79ac-427f-afef-72d95258af12": {
+    "Name": "ตำรวจไฟแรง เอนโว่",
+    "CardNumber": "PRMO-106",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "6636029b-6f66-4aeb-b682-8faa27f96b24": {
+    "Name": "ทองเหม็น ขวานคลั่ง",
+    "CardNumber": "PRMO-105",
+    "Rarity": "C",
+    "SetCode": "PRMO",
+    "SetName": "[PRMO] การ์ดโปรโม"
+  },
+  "42fc66e9-fc5a-48f5-84a8-186d6479403b": {
+    "Name": "[กล่อง] VS 18 หัวเมือง",
+    "CardNumber": "NULL",
+    "Rarity": "-",
+    "SetCode": "SD07",
+    "SetName": "[SD07] VS 18 หัวเมือง"
+  },
+  "65e2675f-4a90-46fb-acb3-1c93e6a46550": {
+    "Name": "[กล่อง] ๖ ประจัญบาน",
+    "CardNumber": "NULL",
+    "Rarity": "-",
+    "SetCode": "SD06",
+    "SetName": "[SD06] ๖ ประจัญบาน"
+  },
   "608bd3a8-b219-48e9-9d4b-322b9f12fbc1": {
     "Name": "สุดยอดท่าไม้ตายผู้กล้า THE END",
     "CardNumber": "KD04-012",
@@ -219,7 +268,7 @@
   "8e35041b-77d0-440d-a7b8-25a7a8f33a6c": {
     "Name": "สุดยอดท่าไม้ตายผู้กล้า THE END",
     "CardNumber": "KD04-012",
-    "Rarity": "SR",
+    "Rarity": "UR",
     "SetCode": "KD04",
     "SetName": "[KD04] ชะตากรแห่งจุดจบ"
   },
@@ -317,7 +366,7 @@
   "045c91d4-64ae-458a-a039-938d232024b9": {
     "Name": "ราชันย์หุ่นนักรบผู้กล้า : คริติคอล ไมเกรน",
     "CardNumber": "KD04-001",
-    "Rarity": "UR",
+    "Rarity": "SR",
     "SetCode": "KD04",
     "SetName": "[KD04] ชะตากรแห่งจุดจบ"
   },
